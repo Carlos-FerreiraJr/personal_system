@@ -1,1 +1,1 @@
-arquivos de teste
+Consulta de dados no banco com php 
