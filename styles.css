@@ -1,0 +1,21 @@
+
+
+.titulo{
+    font-family: timesNewRoman;
+    color: gray;
+    display:flex;
+}   
+
+.option{
+    padding:10px 5px;
+    background-color:rgba(0, 0, 0, 0.603);
+    color:white;
+}
+.option h2{
+    color:white;
+    padding:0px 10px;
+}
+
+.img-title{
+    max-width:40%;
+}
