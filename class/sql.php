@@ -15,13 +15,14 @@ class sql extends PDO{
         $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
         foreach ($result as $resultados) {
-             $resultados["telefone"] = "<a href=https://wa.me/55" . $resultados["telefone"] . "?text=credito%20nao%20aprovado >" .$resultados["telefone"] . "</a>"; 
-            foreach ($resultados as $key => $value) {
-            echo "<i style='color:red'>" . $key ."</i> ::" . $value .   "</br>";
-            }
+            $ruptura = $resultados["ruptura"];
+            $ruptura = preg_replace('/\s+/','%20',$ruptura);
+            $resultados["telefone"] = "<a href=https://wa.me/55" . $resultados["telefone"] . "?text=$ruptura>" .$resultados["telefone"] . "</a>"; 
+                foreach ($resultados as $key => $value){
+                    echo "<i style='color:red'>" . $key ."</i> ::" . $value .   "</br>";
+                }
             echo "<br>";
             echo "<br>";
         }
-
     }   
 }
