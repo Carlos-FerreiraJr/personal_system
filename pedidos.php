@@ -66,9 +66,33 @@
     ?>
     
      <?php require_once('scripts.php')?>
-
-
     </section>
 </center>
+
+
+
+
+
+
+<script>
+
+    resolver = document.querySelectorAll('#resolver');
+    botao = document.querySelectorAll('#botaoresolver');
+
+for (let i = 0; i < resolver.length; i++) {
+    $(botao[i]).click(function(){
+    if($(resolver[i]).hasClass('bg-info')){
+        $(resolver[i]).siblings().addClass('greenalpha');
+        $(resolver[i]).removeClass('bg-info');
+        $(resolver[i]).addClass('bg-success');
+    }else{
+        $(resolver[i]).siblings().removeClass('greenalpha');
+        $(resolver[i]).removeClass('bg-success');
+        $(resolver[i]).addClass('bg-info');
+    }
+    });
+}
+  
+</script>
 </body>
 </html>
