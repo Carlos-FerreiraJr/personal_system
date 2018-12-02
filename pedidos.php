@@ -21,26 +21,24 @@
 
 <center>  
 
-
-    <h3>Consulta de rupturas</h3>
-
-
-    <br>    
-    <br>
-
     <section class="container-fluid">
-
-
-    <!-- formulario de consulta -->
-        <form action="" method="post">
-        <select name ="vendedor" class="custom-select custom-select-lg mb-3">
+    <div class="card border-sencondary title-card">
+        <h3>Consulta de rupturas</h3> 
+    <div>
+     <!-- formulario de consulta -->
+    <div class="card-body">
+    <form action="" method="post">
+        <select name ="vendedor" class="custom-select custom-select-lg mb-3 border-sencondary">
             <option selected value="0">selecione um</option>
             <option value="1">herlander</option>
             <option value="2">Victor</option>
         </select>
-        <button class="btn btn-info" type="submit">Selecionar</button>
+        <button class="btn btn-" type="submit">Selecionar</button>
         <form>
+    <div>
+    </section>
 
+    <section class="container-fluid">
     <br>
     <br>
      <!-- progresso nas rupturas -->

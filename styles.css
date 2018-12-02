@@ -19,7 +19,11 @@
     max-width:40%;
 }
 
-.color-1{
+.color1{
 	color: white !important;
-	background-color:green;
+}
+
+
+.title-card{
+    padding:20px;
 }
