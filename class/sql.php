@@ -23,7 +23,7 @@
                     "<p class='list-group-item list-group-item-action'>". $resultados["nome"] . "</p>".
                     "<p class='list-group-item list-group-item-action'>" .$resultados["ruptura"] ."</p>".
                     "<p class='list-group-item list-group-item-action'>" .$resultados["telefone"] ."</p>".
-                    "<p class='list-group-item list-group-item-action' id='botaoresolver'>" ."<input class='btn btn-warning type='button' placeholder='resolver' >"."</p>".
+                    "<p class='list-group-item list-group-item-action' id='botaoresolver'>" ."<input class='btn btn-warning type='button' placeholder='resolver' readonly >"."</p>".
                     "</div>". 
                     "<br>";
                 }   

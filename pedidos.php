@@ -67,7 +67,10 @@
                             <br>
                             <label>vendedor </label>
                             <br>
-                            <input type="text" name="vendedor">
+                            <select type="text" name="vendedor">
+                                <option value="1">Herlander</option>
+                                <option value="2">Victor</option>
+                            </select>
                             <br>
                             <label>telefone </label>
                             <br>
