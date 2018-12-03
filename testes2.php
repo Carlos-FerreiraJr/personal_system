@@ -19,3 +19,15 @@
 </form>
 </body>
 </html>
+
+
+
+
+
+
+
+ <label class="col-sm-2 col-form-label">vendedor </label>
+                            <select name="vendedor">
+                                <option value="1">herlander</option>
+                                <option value="2">Victor</option>
+                            </select>

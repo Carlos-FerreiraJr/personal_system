@@ -41,7 +41,33 @@
             <!-- --- ------------------area de cadastro --------------------------- -->
                 <div class="collapse" id="cadastrar">
                     <div class="card card-body">
-                    
+                        <form action="" method="post">
+                            
+                            <label>orders</label>
+                            <input type="text" name="orders">
+                            <br>
+                            <label>nome</label>
+                            <input type="text" name="nome">
+                            <br>
+                            <label>ruptura </label>
+                            <input type="text" name="ruptura">
+                            <br>
+                            <label>vendedor </label>
+                            <input type="text" name="vendedor">
+                            <br>
+                            <label>telefone </label>
+                            <input type="text" name="telefone">
+                            <br>
+                            <button type="submit">Cadastrar</button>
+                            <?php
+                            if(isset($_POST["orders"]) && !empty($_POST["orders"])){
+                                require("configs.php");
+                                $dados = array($_POST["orders"],$_POST["nome"],$_POST["ruptura"],$_POST["vendedor"],$_POST["telefone"]);
+                                $go = new sql();
+                                $go->cadastrar($dados);
+                                }
+                            ?>
+                    </form>
                     </div>
                 </div>
             <!-- __________________________________________________________________ -->

@@ -40,10 +40,11 @@
                       $ven = $dados[4];
                   }
 
-                  var_dump($ped,$nom,$rup,$pro,$ven);
                  $stmt->execute([$ped,$nom,$rup,$pro,$ven]);   
+
+                   
                }
-    
+            
         }
 
         // $go = new sql();
