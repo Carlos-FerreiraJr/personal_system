@@ -39,11 +39,37 @@
             
             
             <!-- --- ------------------area de cadastro --------------------------- -->
-            <div class="collapse" id="cadastrar">
-                <div class="card card-body">
-                   
+                <div class="collapse" id="cadastrar">
+                    <div class="card card-body">
+                    <form action="" method="get">
+                            <label>pedido</label>
+                            <input name="pedido">
+                            
+                            <br>
+                            <label>nome</label>
+                            <input name="nome">
+                            
+                            <br>
+                            <label>telefone</label>
+                            <input name="telefone">
+                            
+                            <br>
+                            <label>problema</label>
+                            <input name="ruptura">
+                            
+                            <br>
+                            <label></label>
+                            <select name="vendedor">
+                                <option value="1">herlander</option>
+                                <option value="2">Victor</option>
+                            </select>
+                            <br>
+
+                            <button type="submit">cadastrar</button>
+                        </form>
+
+                    </div>
                 </div>
-            </div>
             <!-- __________________________________________________________________ -->
 
 
@@ -87,6 +113,12 @@
                         $teste->select($_POST["vendedor"]);
                     }
                 }
+
+                if(isset($_GET["pedido"])){
+                    $dados = array($_GET["pedido"],$_GET["nome"],$_GET["telefone"],$_GET["ruptura"],$_GET["vendedor"]);
+                    $inserir = new sql();
+                    $inserir->Cadastrar($dados);
+                }
             ?>
             <!-- __________________________________________________________________ -->
         </section>
@@ -100,7 +132,6 @@
     <!-- ############################################################################################# -->
 
 </center>
-
 
 <script>
 

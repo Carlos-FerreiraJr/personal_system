@@ -4,7 +4,7 @@
             private $conn;
 
             function __construct(){
-                $this->conn = new PDO("mysql:dbname=testes;host=localhost","root","");/*TODO DADOS DE CONEXAO ENTRE < >*/
+                $this->conn = new PDO("mysql:dbname=testes;host=localhost","root","meugola12#=");/*TODO DADOS DE CONEXAO ENTRE < >*/
             }
 
             function select($idcod){
@@ -28,6 +28,25 @@
                     "<br>";
                 }   
             }
+
+            function cadastrar($dados){
+                $stmt =  $this->conn->prepare("insert into clientes(orders,nome,ruptura,vendedor,telefone) values(?,?,?,?,?)");
+                
+                  for ($i=0; $i <count($dados); $i++) { 
+                      $ped = $dados[0];
+                      $nom = $dados[1];
+                      $rup = $dados[2];
+                      $pro = $dados[3];
+                      $ven = $dados[4];
+                  }
+
+                  var_dump($ped,$nom,$rup,$pro,$ven);
+                 $stmt->execute([$ped,$nom,$rup,$pro,$ven]);   
+               }
     
         }
+
+        // $go = new sql();
+        // $dados = array('rewrewrew','nbnnnn','pita','2','2222');
+        // $go->cadastrar($dados);
     /* ##################################################################################### */
