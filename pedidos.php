@@ -44,18 +44,33 @@
                         <form action="" method="post">
                             
                             <label>orders</label>
+                            <br>
                             <input type="text" name="orders">
                             <br>
                             <label>nome</label>
+                            <br>
                             <input type="text" name="nome">
                             <br>
                             <label>ruptura </label>
-                            <input type="text" name="ruptura">
+                            <br>
+                            <select type="text" name="ruptura">
+                                <option>Sem Estoque</option>
+                                <option>Enviado Parcial</option>
+                                <option>Atraso Entrega</option>
+                                <option>Boleto em Aberto</option>
+                                <option>Perfil ou Cred. não Aprovado</option>
+                                <option>Não atende Região</option>
+                                <option>Endereço Inconsistente</option>
+                                <option>Contato Inválido</option>
+                                <option>Entrga/Dia Especifico</option>
+                            </select>
                             <br>
                             <label>vendedor </label>
+                            <br>
                             <input type="text" name="vendedor">
                             <br>
                             <label>telefone </label>
+                            <br>
                             <input type="text" name="telefone">
                             <br>
                             <button type="submit">Cadastrar</button>
