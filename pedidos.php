@@ -41,33 +41,7 @@
             <!-- --- ------------------area de cadastro --------------------------- -->
                 <div class="collapse" id="cadastrar">
                     <div class="card card-body">
-                    <form action="" method="get">
-                            <label>pedido</label>
-                            <input name="pedido">
-                            
-                            <br>
-                            <label>nome</label>
-                            <input name="nome">
-                            
-                            <br>
-                            <label>telefone</label>
-                            <input name="telefone">
-                            
-                            <br>
-                            <label>problema</label>
-                            <input name="ruptura">
-                            
-                            <br>
-                            <label></label>
-                            <select name="vendedor">
-                                <option value="1">herlander</option>
-                                <option value="2">Victor</option>
-                            </select>
-                            <br>
-
-                            <button type="submit">cadastrar</button>
-                        </form>
-
+                    
                     </div>
                 </div>
             <!-- __________________________________________________________________ -->
@@ -78,7 +52,7 @@
                 <div class="collapse" id="consulta">
                     <div class="card border-sencondary title-card">
                         <h3>Consulta de rupturas</h3> 
-                        <form action="" method="post">
+                        <form action="" method="get">
                             <select name ="vendedor" class="custom-select custom-select-lg mb-3 border-sencondary">
                                 <option selected value="0">selecione um</option>
                                 <option value="1">herlander</option>
@@ -104,21 +78,16 @@
             <?php    
                 require("configs.php");
                 $teste = new sql();
-                if (isset($_POST["vendedor"])) {
-                    if ($_POST["vendedor"]==0){
-                        echo "<p style='color:red'>voce precisa escolher um vendedor<p>";    
-                    }else{
+                if (isset($_GET["vendedor"]) && !empty($_GET["vendedor"])) {    
                         require("configs.php");
                         $teste = new sql();
-                        $teste->select($_POST["vendedor"]);
-                    }
+                        $teste->select($_GET["vendedor"]);
+                }elseif(isset($_GET["vendedor"]) && $_GET["vendedor"]==0){
+                    echo "<p style='color:red'>voce precisa escolher um vendedor<p>";
+                }else{
+                    echo "<p class='text-success'>" ."selecione uma opcao" . "<p>";  
                 }
 
-                if(isset($_GET["pedido"])){
-                    $dados = array($_GET["pedido"],$_GET["nome"],$_GET["telefone"],$_GET["ruptura"],$_GET["vendedor"]);
-                    $inserir = new sql();
-                    $inserir->Cadastrar($dados);
-                }
             ?>
             <!-- __________________________________________________________________ -->
         </section>
