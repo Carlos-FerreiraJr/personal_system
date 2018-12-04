@@ -31,3 +31,8 @@
 .greenalpha{
   background-color: rgba(40,167,69,0.3);
 }
+
+.form01{
+    margin: 0 auto;
+    min-width: 82%;
+}

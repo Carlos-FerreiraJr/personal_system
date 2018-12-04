@@ -8,7 +8,7 @@
             }
 
             function select($idcod){
-                $stmt = $this->conn->prepare("select * from clientes where vendedor = ? ");/*TODO dado da tabela */
+                $stmt = $this->conn->prepare("select * from clientes where vendedor = ? order by data_registro ");/*TODO dado da tabela */
                 $codigo = $idcod;
                 $stmt->execute([$codigo]);
 

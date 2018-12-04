@@ -41,19 +41,74 @@
             <!-- --- ------------------area de cadastro --------------------------- -->
                 <div class="collapse" id="cadastrar">
                     <div class="card card-body">
-                        <form action="" method="post">
+                        <form action="" class="col-md-8" method="post">
+                        <div class="form-row">
+                                <div class="input-group-sm col-md-6">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">pedidos</span>
+                                    </div>
+                                        <textarea  name ="orders" class="form-control" aria-label="With textarea"></textarea>
+                                </div>
+
+                                <div class="input-group-sm col-md-6">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">nome</span>
+                                    </div>
+                                        <textarea  name ="nome" class="form-control" aria-label="With textarea"></textarea>
+                                </div>
+                        </div>
+                        <br>
+    <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-teste$%$#$$%#$%#@$@$@$@$@$-->
+                        <div class="form-row">
+                            <div class="input-group-sm col-md-6">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Telefone</span>
+                                    </div>
+                                        <textarea  name ="telefone" class="form-control" aria-label="With textarea"></textarea>
+                            </div>
                             
-                            <label>orders</label>
-                            <br>
-                            <input type="text" name="orders">
-                            <br>
-                            <label>nome</label>
-                            <br>
-                            <input type="text" name="nome">
-                            <br>
-                            <label>ruptura </label>
-                            <br>
-                            <select type="text" name="ruptura">
+                            <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-teste$%$#$$%#$%#@$@$@$@$@$-->
+
+                            <div class="form-group col-md-6">
+                                <div class="input-group-sm">
+                                <div class="input-group-prepend">
+                                        <span class="input-group-text">motivo</span>
+                                </div>
+                                <select type="text" class="form-control" name="vendedor">
+                                    <option value="1">Herlander</option>
+                                    <option value="2">Victor</option>
+                                </select>
+                            </div>
+                            </div>
+
+                            <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-teste$%$#$$%#$%#@$@$@$@$@$-->
+
+
+
+
+
+                        </div>
+
+    <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-v%$#$$%#$%#@$@$@$@$@$-%$#$$-->
+
+
+                        <br>    
+
+                        <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <div class="input-group-sm">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Seller</span>
+                                    </div>
+                                        <textarea  name ="seller" class="form-control" aria-label="With textarea"></textarea>
+                        </div>
+                        </div>
+                        <div class="form-group col-md-6">
+                        <div class="input-group-sm">
+                                <div class="input-group-prepend">
+                                        <span class="input-group-text">motivo</span>
+                                </div>
+                            <select type="text" class="form-control" name="ruptura">
                                 <option>Sem Estoque</option>
                                 <option>Enviado Parcial</option>
                                 <option>Atraso Entrega</option>
@@ -64,22 +119,10 @@
                                 <option>Contato Inválido</option>
                                 <option>Entrga/Dia Especifico</option>
                             </select>
-                            <br>
-
-                            <label>Seller</label>
-                            <br>
-                                <input type="text" name="seller">
-                            <br>
-                            <label>vendedor </label>
-                            <br>
-                            <select type="text" name="vendedor">
-                                <option value="1">Herlander</option>
-                                <option value="2">Victor</option>
-                            </select>
-                            <br>
-                            <label>telefone </label>
-                            <br>
-                            <input type="text" name="telefone">
+                        </div>
+                        </div>
+                        </div>
+                            
                             <br>
                             <button type="submit">Cadastrar</button>
                             <?php
@@ -91,8 +134,8 @@
                                 }
                             ?>
                     </form>
-                    </div>
                 </div>
+            </div>
             <!--__________________________________________________________________ -->
 
 
