@@ -65,6 +65,11 @@
                                 <option>Entrga/Dia Especifico</option>
                             </select>
                             <br>
+
+                            <label>Seller</label>
+                            <br>
+                                <input type="text" name="seller">
+                            <br>
                             <label>vendedor </label>
                             <br>
                             <select type="text" name="vendedor">
@@ -80,7 +85,7 @@
                             <?php
                             if(isset($_POST["orders"]) && !empty($_POST["orders"])){
                                 require("configs.php");
-                                $dados = array($_POST["orders"],$_POST["nome"],$_POST["ruptura"],$_POST["vendedor"],$_POST["telefone"]);
+                                $dados = array($_POST["orders"],$_POST["nome"],$_POST["ruptura"],$_POST["vendedor"],$_POST["telefone"],$_POST["seller"]);
                                 $go = new sql();
                                 $go->cadastrar($dados);
                                 }
@@ -88,7 +93,7 @@
                     </form>
                     </div>
                 </div>
-            <!-- __________________________________________________________________ -->
+            <!--__________________________________________________________________ -->
 
 
 
@@ -106,7 +111,7 @@
                         <form>
                     </div>
                 </div>
-            <!-- __________________________________________________________________ -->
+            <!--__________________________________________________________________ -->
 
         </section>
 
@@ -157,14 +162,18 @@
                 $(resolver[i]).siblings().addClass('greenalpha');
                 $(resolver[i]).removeClass('bg-info');
                 $(resolver[i]).addClass('bg-success');
+                $(resolver[i]).attr("name","1");
             }else{
                 $(resolver[i]).siblings().removeClass('greenalpha');
                 $(resolver[i]).removeClass('bg-success');
                 $(resolver[i]).addClass('bg-info');
+                $(resolver[i]).attr("name","0");
+
             }
         });
     }  
-</script>
 
+
+</script>
 </body>
 </html>

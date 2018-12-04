@@ -22,6 +22,7 @@
                     "<p class='list-group-item list-group-item-action bg-info' id='resolver'>". $resultados["orders"] . "</p>" . 
                     "<p class='list-group-item list-group-item-action'>". $resultados["nome"] . "</p>".
                     "<p class='list-group-item list-group-item-action'>" .$resultados["ruptura"] ."</p>".
+                    "<p class='list-group-item list-group-item-action'>" .$resultados["seller"] ."</p>".
                     "<p class='list-group-item list-group-item-action'>" .$resultados["telefone"] ."</p>".
                     "<p class='list-group-item list-group-item-action' id='botaoresolver'>" ."<input class='btn btn-warning type='button' placeholder='resolver' readonly >"."</p>".
                     "</div>". 
@@ -30,7 +31,7 @@
             }
 
             function cadastrar($dados){
-                $stmt =  $this->conn->prepare("insert into clientes(orders,nome,ruptura,vendedor,telefone) values(?,?,?,?,?)");
+                $stmt =  $this->conn->prepare("insert into clientes(orders,nome,ruptura,vendedor,telefone,seller) values(?,?,?,?,?,?)");
                 
                   for ($i=0; $i <count($dados); $i++) { 
                       $ped = $dados[0];
@@ -38,11 +39,10 @@
                       $rup = $dados[2];
                       $pro = $dados[3];
                       $ven = $dados[4];
+                      $sel = $dados[5];
                   }
 
-                 $stmt->execute([$ped,$nom,$rup,$pro,$ven]);   
-
-                   
+                 $stmt->execute([$ped,$nom,$rup,$pro,$ven,$sel]);   
                }
             
         }
