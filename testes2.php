@@ -7,27 +7,26 @@
   <title>Document</title>
 </head>
 <body>
- 
-      <?php
-        if(isset($_POST["orders"]) && !empty($_POST["orders"])){
-          require("configs.php");
-          $dados = array($_POST["orders"],$_POST["nome"],$_POST["ruptura"],$_POST["vendedor"],$_POST["telefone"]);
-          $go = new sql();
-          $go->cadastrar($dados);
-        }
-      ?>
-</form>
+  <style>
+
+    hr {
+    border: 0;
+    margin: 1.35em auto;
+    max-width: 100%;
+    background-position: 50%;
+    box-sizing: border-box;
+}
+    .line {
+    width: 65%;
+    height: 30px;
+    border-style: solid;
+    border-color: hsla(0, 0%, 75%, 0.9);
+    border-width: 1px 0 0 0;
+    border-radius: 15px;
+}
+    </style>
+
+<hr class="line">
+  
 </body>
 </html>
-
-
-
-
-
-
-
- <label class="col-sm-2 col-form-label">vendedor </label>
-                            <select name="vendedor">
-                                <option value="1">herlander</option>
-                                <option value="2">Victor</option>
-                            </select>

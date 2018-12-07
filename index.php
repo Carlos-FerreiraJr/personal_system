@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="shortcut icon" href="img/grafico1.gif"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -29,11 +30,8 @@
     <script>
 
 
-        $carlos  = 1;
-        $carlos2 = 2;
-        $carlos3 = 3;
-        $carlos4 = 2;
-        $carlos5 = 5;
+        nome0 = "Herlander";
+        nome1 = "Victor";
 
         var ctx = document.getElementById('myChart').getContext('2d');
         var chart = new Chart(ctx, {
@@ -41,12 +39,12 @@
         type: 'bar',
         // The data for our dataset
         data: {
-        labels: [$carlos, $carlos2, $carlos3, $carlos4, $carlos5],
+        labels: [nome0, nome1],
         datasets: [{
-            label: "Mais usado",
-            backgroundColor: '#75D6C8',
+            label: "Rupturas",
+            backgroundColor:'#FDAA24',
             borderColor: '#75D6C8',
-            data: [10, 5, 2, 20, 30, 45],
+            data: [20, 5, 60],
             }]
         },
             // Configuration options go here

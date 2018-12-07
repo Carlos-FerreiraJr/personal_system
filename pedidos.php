@@ -39,23 +39,29 @@
             
             
             <!-- --- ------------------area de cadastro --------------------------- -->
+               
                 <div class="collapse" id="cadastrar">
                     <div class="card card-body">
                         <form action="" class="col-md-8" method="post">
+                        <h3>Cadastro de rupturas</h3>
+                        <hr class="line">
                         <div class="form-row">
-                                <div class="input-group-sm col-md-6">
-                                    <div class="input-group-prepend">
-                                        <span class="input-group-text">pedidos</span>
-                                    </div>
-                                        <textarea  name ="orders" class="form-control" aria-label="With textarea"></textarea>
+                            <div class="input-group-sm col-md-6">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">pedidos</span>
                                 </div>
+                                    <textarea  name ="orders" class="form-control" aria-label="With textarea" required></textarea>
+                            </div>
+                            <br>
+                            <br>
+                            <br>
 
-                                <div class="input-group-sm col-md-6">
-                                    <div class="input-group-prepend">
-                                        <span class="input-group-text">nome</span>
-                                    </div>
-                                        <textarea  name ="nome" class="form-control" aria-label="With textarea"></textarea>
+                            <div class="input-group-sm col-md-6">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">nome</span>
                                 </div>
+                                    <textarea  name ="nome" class="form-control" aria-label="With textarea" required></textarea>
+                            </div>
                         </div>
                         <br>
     <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-teste$%$#$$%#$%#@$@$@$@$@$-->
@@ -64,67 +70,57 @@
                                     <div class="input-group-prepend">
                                         <span class="input-group-text">Telefone</span>
                                     </div>
-                                        <textarea  name ="telefone" class="form-control" aria-label="With textarea"></textarea>
+                                        <textarea  name ="telefone" class="form-control" aria-label="With textarea" required></textarea>
                             </div>
-                            
-                            <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-teste$%$#$$%#$%#@$@$@$@$@$-->
-
+                            <br>
+                            <br>
+                            <br>
                             <div class="form-group col-md-6">
                                 <div class="input-group-sm">
-                                <div class="input-group-prepend">
-                                        <span class="input-group-text">motivo</span>
+                                    <div class="input-group-prepend">
+                                            <span class="input-group-text">vendedor</span>
+                                    </div>
+                                    <select type="text" class="form-control" name="vendedor">
+                                        <option value="1">Herlander</option>
+                                        <option value="2">Victor</option>
+                                    </select>
                                 </div>
-                                <select type="text" class="form-control" name="vendedor">
-                                    <option value="1">Herlander</option>
-                                    <option value="2">Victor</option>
-                                </select>
                             </div>
-                            </div>
-
-                            <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-teste$%$#$$%#$%#@$@$@$@$@$-->
-
-
-
-
-
                         </div>
 
-    <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-v%$#$$%#$%#@$@$@$@$@$-%$#$$-->
-
-
-                        <br>    
+    <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-v%$#$$%#$%#@$@$@$@$@$-%$#$$-->   
 
                         <div class="form-row">
-                        <div class="form-group col-md-6">
-                        <div class="input-group-sm">
+                            <div class="form-group col-md-6">
+                                <div class="input-group-sm">
                                     <div class="input-group-prepend">
                                         <span class="input-group-text">Seller</span>
                                     </div>
-                                        <textarea  name ="seller" class="form-control" aria-label="With textarea"></textarea>
-                        </div>
-                        </div>
-                        <div class="form-group col-md-6">
-                        <div class="input-group-sm">
-                                <div class="input-group-prepend">
-                                        <span class="input-group-text">motivo</span>
+                                        <textarea  name ="seller" class="form-control" aria-label="With textarea" required></textarea>
                                 </div>
-                            <select type="text" class="form-control" name="ruptura">
-                                <option>Sem Estoque</option>
-                                <option>Enviado Parcial</option>
-                                <option>Atraso Entrega</option>
-                                <option>Boleto em Aberto</option>
-                                <option>Perfil ou Cred. não Aprovado</option>
-                                <option>Não atende Região</option>
-                                <option>Endereço Inconsistente</option>
-                                <option>Contato Inválido</option>
-                                <option>Entrga/Dia Especifico</option>
-                            </select>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <div class="input-group-sm">
+                                        <div class="input-group-prepend">
+                                                <span class="input-group-text">motivo</span>
+                                        </div>
+                                    <select type="text" class="form-control" name="ruptura">
+                                        <option>Sem Estoque</option>
+                                        <option>Enviado Parcial</option>
+                                        <option>Atraso Entrega</option>
+                                        <option>Boleto em Aberto</option>
+                                        <option>Perfil ou Cred. não Aprovado</option>
+                                        <option>Não atende Região</option>
+                                        <option>Endereço Inconsistente</option>
+                                        <option>Contato Inválido</option>
+                                        <option>Entrga/Dia Especifico</option>
+                                    </select>
+                                </div>
+                            </div>
                         </div>
-                        </div>
-                        </div>
-                            
-                            <br>
-                            <button type="submit">Cadastrar</button>
+
+                        <br>
+                        <button class="btn btn-info" type="submit">Cadastrar</button>
                             <?php
                             if(isset($_POST["orders"]) && !empty($_POST["orders"])){
                                 require("configs.php");
@@ -143,8 +139,9 @@
             <!-- --- ------------------area de consulta --------------------------- -->
                 <div class="collapse" id="consulta">
                     <div class="card border-sencondary title-card">
-                        <h3>Consulta de rupturas</h3> 
                         <form action="" method="get">
+                            <h3>Consulta de rupturas</h3> 
+                            <hr class="line">
                             <select name ="vendedor" class="custom-select custom-select-lg mb-3 border-sencondary">
                                 <option selected value="0">selecione um</option>
                                 <option value="1">herlander</option>
