@@ -32,6 +32,7 @@
 
         nome0 = "Herlander";
         nome1 = "Victor";
+        nome3 = "teste";
 
         var ctx = document.getElementById('myChart').getContext('2d');
         var chart = new Chart(ctx, {
@@ -39,12 +40,12 @@
         type: 'bar',
         // The data for our dataset
         data: {
-        labels: [nome0, nome1],
+        labels: [nome0, nome1,nome3],
         datasets: [{
             label: "Rupturas",
             backgroundColor:'#FDAA24',
             borderColor: '#75D6C8',
-            data: [20, 5, 60],
+            data: [280,160,40, 60],
             }]
         },
             // Configuration options go here

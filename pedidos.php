@@ -64,7 +64,7 @@
                             </div>
                         </div>
                         <br>
-    <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-teste$%$#$$%#$%#@$@$@$@$@$-->
+
                         <div class="form-row">
                             <div class="input-group-sm col-md-6">
                                     <div class="input-group-prepend">
@@ -88,7 +88,7 @@
                             </div>
                         </div>
 
-    <!-- %$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-%$#$$%#$%#@$@$@$@$@$-v%$#$$%#$%#@$@$@$@$@$-%$#$$-->   
+                    
 
                         <div class="form-row">
                             <div class="form-group col-md-6">
@@ -146,6 +146,8 @@
                                 <option selected value="0">selecione um</option>
                                 <option value="1">herlander</option>
                                 <option value="2">Victor</option>
+                                <option value="3">Concluidos herlander</option>
+                                <option value="4">Concluidos victor</option>
                             </select>
                             <button class="btn btn-" type="submit">Selecionar</button>
                         <form>
@@ -166,11 +168,16 @@
             <!-- --- ------------------chamada sql --------------------------- -->
             <?php    
                 require("configs.php");
-                $teste = new sql();
-                if (isset($_GET["vendedor"]) && !empty($_GET["vendedor"])) {    
+                $envio = new sql();
+                if (isset($_GET["vendedor"]) && !empty($_GET["vendedor"])) {  
                         require("configs.php");
-                        $teste = new sql();
-                        $teste->select($_GET["vendedor"]);
+                        $envio = new sql();
+                        if($_GET["vendedor"] == 1 || $_GET["vendedor"] == 2){
+                        $envio->select($_GET["vendedor"]);
+                    }elseif($_GET["vendedor"] == 3 || $_GET["vendedor"]){
+                        $envio->select($_GET["vendedor"]);
+                    }
+
                 }elseif(isset($_GET["vendedor"]) && $_GET["vendedor"]==0){
                     echo "<p style='color:red'>voce precisa escolher um vendedor<p>";
                 }else{
@@ -193,23 +200,42 @@
 
 <script>
 
-    resolver = document.querySelectorAll('#resolver');
-    botao = document.querySelectorAll('#botaoresolver');
+    resolver = document.querySelectorAll('.resolver');
+    botao = document.querySelectorAll('.botaoresolver');
 
     for (let i = 0; i < resolver.length; i++) {
             $(botao[i]).click(function(){
+                ordernum = resolver[i].innerHTML;
             if($(resolver[i]).hasClass('bg-info')){
                 $(resolver[i]).siblings().addClass('greenalpha');
                 $(resolver[i]).removeClass('bg-info');
                 $(resolver[i]).addClass('bg-success');
                 $(resolver[i]).attr("name","1");
-            }else{
-                $(resolver[i]).siblings().removeClass('greenalpha');
-                $(resolver[i]).removeClass('bg-success');
-                $(resolver[i]).addClass('bg-info');
-                $(resolver[i]).attr("name","0");
 
-            }
+               
+                // var request = $.ajax({
+                //     url:"class/sql.php",
+                //     type:"POST",
+                //     data:'t4este',
+                //     dataType:"text"
+                // }).done(function (teste){
+                //         console.log(teste);
+                // }).fail( function(jqXHR,textStatus){
+                //         console.log("Request failed: " + textStatus);
+                // }).always(function(){
+                //         console.log("complete");
+                // });
+
+                $.post("class/resolver.php",ordernum,
+                function(data){
+                    console.log(data);
+                });
+                }else{
+                    $(resolver[i]).siblings().removeClass('greenalpha');
+                    $(resolver[i]).removeClass('bg-success');
+                    $(resolver[i]).addClass('bg-info');
+                    $(resolver[i]).attr("name","0");
+                }
         });
     }  
 

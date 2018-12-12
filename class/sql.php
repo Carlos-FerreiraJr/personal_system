@@ -1,30 +1,55 @@
 <?php 
+
     /* ######################################classe sql #################################### */
         class sql extends PDO{
-            private $conn;
+            protected $conn;
 
             function __construct(){
                 $this->conn = new PDO("mysql:dbname=testes;host=localhost","root","meugola12#=");/*TODO DADOS DE CONEXAO ENTRE < >*/
             }
 
             function select($idcod){
-                $stmt = $this->conn->prepare("select * from clientes where vendedor = ? order by data_registro ");/*TODO dado da tabela */
-                $codigo = $idcod;
-                $stmt->execute([$codigo]);
+                $stmt = $this->conn->prepare("select * from clientes where vendedor = ? and status = ? order by data_registro ");/*TODO dado da tabela */
+         
+                switch($idcod){
+                    case 3:
+                        $codigo = 1;
+                        $status = 1;
+                    break;
+                    case 4:
+                        $codigo = 2;
+                        $status = 1;
+                    break;
+                    default:
+                    $codigo = $idcod;
+                    $status = 0;
+                }
+                
+                $stmt->execute([$codigo,$status]);
 
                 $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
                 foreach ($result as $resultados) {
+
+                    if($resultados["status"] == 1){
+                        $color = "bg-success";
+                        $colorbody = "greenalpha";
+                    }else{
+                        $color = "bg-info";
+                        $colorbody = "";
+                        
+                    }
+
                     $ruptura = $resultados["ruptura"];
                     $ruptura = preg_replace('/\s+/','%20',$ruptura);
                     $resultados["telefone"] = "<a href=https://wa.me/55" . $resultados["telefone"] . "?text=$ruptura>" .$resultados["telefone"] . "</a>"; 
                     echo "<div class='list-group col-md-10'>".
-                    "<p class='list-group-item list-group-item-action bg-info' id='resolver'>". $resultados["orders"] . "</p>" . 
-                    "<p class='list-group-item list-group-item-action'>". $resultados["nome"] . "</p>".
-                    "<p class='list-group-item list-group-item-action'>" .$resultados["ruptura"] ."</p>".
-                    "<p class='list-group-item list-group-item-action'>" .$resultados["seller"] ."</p>".
-                    "<p class='list-group-item list-group-item-action'>" .$resultados["telefone"] ."</p>".
-                    "<p class='list-group-item list-group-item-action' id='botaoresolver'>" ."<input class='btn btn-warning type='button' placeholder='resolver' readonly >"."</p>".
+                    "<p class='list-group-item list-group-item-action . $color . resolver'>". $resultados["orders"] . "</p>" . 
+                    "<p class='list-group-item list-group-item-action . $colorbody .'>". $resultados["nome"] . "</p>".
+                    "<p class='list-group-item list-group-item-action . $colorbody .'>" .$resultados["ruptura"] ."</p>".
+                    "<p class='list-group-item list-group-item-action . $colorbody .'>" .$resultados["seller"] ."</p>".
+                    "<p class='list-group-item list-group-item-action . $colorbody .'>" .$resultados["telefone"] ."</p>".
+                    "<p class='list-group-item list-group-item-action botaoresolver . $colorbody .'>" ."<input class='btn btn-warning type='button' placeholder='resolver' readonly >"."</p>".
                     "</div>". 
                     "<br>";
                 }   
@@ -44,10 +69,13 @@
 
                  $stmt->execute([$ped,$nom,$rup,$pro,$ven,$sel]);   
                }
-            
-        }
 
-        // $go = new sql();
-        // $dados = array('rewrewrew','nbnnnn','pita','2','2222');
-        // $go->cadastrar($dados);
+            function Setstatus(){
+                    $stmt = $this->conn->prepare("update clientes set status = ? where orders = '100003084'");
+                    $teste = 3;
+                    $stmt->execute([$teste]);
+            }
+
+        }
+    
     /* ##################################################################################### */
