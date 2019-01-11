@@ -14,7 +14,7 @@
       </li>
 
       <li class=" color-1 nav-item">
-       <b><a class=" color-1 nav-link disabled" href="">Configuracoes</a><b>
+       <b><a class=" color-1 nav-link" href="configuracoes.php">Configuracoes</a><b>
       </li>
       <li class="nav-item">
         <a class="nav-link disabled" href="#">ofertas</a>

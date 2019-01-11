@@ -1,0 +1,8 @@
+query para integrar pedido;
+
+
+INSERT INTO clientes(orders,data,nome,ruptura,telefone)
+SELECT pedido_magento,data,cliente,comentario,telefone
+FROM pedidos
+WHERE status = "canceled" or status = "closed";
+

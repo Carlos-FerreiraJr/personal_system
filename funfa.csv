@@ -1,0 +1,2454 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Menu.com.vc | Tudo para o seu comércio em um só lugar</title>
+<meta name="description" content="atacadista, distribuidor, produtor, alimentos, bebidas, restaurantes, bares, pizzarias, mussarela, catupiry, ofertas, carne, arroz, feijão, sal, mercearia
+é seguro comprar na Menu.com.vc?
+é seguro comprar na menu.com?
+o que é a menu.com.vc?
+o que é a menu.com.vc?
+é barato comprar na menu.com.vc?
+é barato comprar na menu.com?
+" />
+<meta name="keywords" content="atacadista, distribuidor, produtor, alimentos, bebidas, restaurantes, bares, pizzarias, mussarela, catupiry, ofertas, carne, arroz, feijão, sal, mercearia
+é seguro comprar na Menu.com.vc?
+é seguro comprar na menu.com?
+o que é a menu.com.vc?
+o que é a menu.com.vc?
+é barato comprar na menu.com.vc?
+é barato comprar na menu.com?
+" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+<link rel="icon" href="https://menu.com.vc/media/favicon/stores/1/faviconmenupontocom.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://menu.com.vc/media/favicon/stores/1/faviconmenupontocom.png" type="image/x-icon" />
+<link media="all" href="https://menu.com.vc/skin/frontend/menu/marketplace/css/styles.css3.php?url=https://menu.com.vc/skin/frontend/menu/marketplace/" type="text/css" rel="stylesheet" />
+
+<!--FONTE AWESOME -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://menu.com.vc/js/blank.html';
+    var BLANK_IMG = 'https://menu.com.vc/js/spacer.gif';
+//]]>
+</script>
+
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://menu.com.vc/media/css_secure/e9406d0f5ac55bf5a1559d44d194f5b6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://menu.com.vc/media/css_secure/4f04903fc34421dbfec6c0328e8883e2.css" media="print" />
+<script type="text/javascript" src="https://menu.com.vc/media/js/004715247f6d02fe64d16a0bd7201524.js"></script>
+<link href="https://menu.com.vc/blog/rss/index/store_id/1/" title="Artigos do blog" rel="alternate" type="application/rss+xml" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="https://menu.com.vc/media/css_secure/aa1667a96a9bea0062c3f54a2f085127.css" media="all" />
+<script type="text/javascript" src="https://menu.com.vc/media/js/896535e902797a91be4af7e3542019de.js"></script>
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://menu.com.vc/media/js/82d68402beced547f8e08d5a74d20dfc.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.menu.com.vc';
+//]]>
+</script>
+    <style>
+                .top-link,
+        .verticalmenu-title.block-title,
+        .verticalmenu-title,
+        .block-title,
+        .block .block-title strong,
+        .products-list ul.add-to-links a,
+        .copyright-footer,
+        .minicart-box-footer,
+        .button-dark.btn-empty,
+        .button-dark.btn-empty *,
+        .button-dark.link-edit,
+        .button-dark.link-edit *,
+        .opc .active .step-title{
+            background: #2B313B !important;
+            background-color: #2B313B !important;
+        }
+
+        .wholesaler-search,
+        .actions-menu-header *,
+        #active-wish,
+        .btn-cart-text .label,
+        .bx-controls a
+        {
+            color: #2B313B !important;
+        }
+        .product-view .product-shop .add-to-links a{
+            background-color: #2B313B !important;
+        }
+        
+                .main-footer,
+        .minicart-box-header,
+        .cart-action-footer,
+        .step-wishlist span,
+        .button-noback.btn-continue,
+        .button-noback.btn-continue *{
+            background: #4E555C !important;
+            background-color: #4E555C !important;
+        }
+
+        
+                button.button span,
+        btn,
+        .categorytab-slider ul.tabs li:hover, .categorytab-slider ul.tabs li.active,
+        .ma-item-inner .btn-cart,
+        .print-ctg,
+        .products-list button.button.btn-cart
+        #opc-login .buttons-set button.button span:hover,
+        .minicart-item-text-large-more .quantity-button,
+        .mh-search-btn,
+        .products-list button.button.btn-cart,
+        .btn-minicart-action,
+        .button-call.btn-update, .button-call.btn-update *,
+        #opc-login .buttons-set button.button span:hover,
+        #opc-login .buttons-set button.button span:focus,
+        #opc-login .buttons-set button.button span:active,
+        .col-left a[href*='wishlist'],
+        .col-login-form-register .new-users,
+        .wishlist-container button.btn-cart,
+        .signup-cnpj button,
+        .minicart-icon-content .count,
+        .block-tags .block-content a:hover,
+        .block-tags .block-content a:active,
+        .block-tags .block-content a:focus,
+        .col-login-form-register .new-users .content .actions [type="submit"]{
+
+            background: #FF7300 !important;
+            background-color: #FF7300 !important;
+        }
+        .ma-item-inner ul.add-to-links li a{
+            background-color: #FF7300 !important;
+        }
+        .categorytab-slider .tab-title,
+        #algolia-autocomplete-container .aa-dropdown-menu,
+        .cart-collaterals .discount .button,
+        #opc-login .buttons-set button.button span,
+        .mh-search-btn,
+        .block-tags .block-content a:hover,
+        .block-tags .block-content a:active,
+        .block-tags .block-content a:focus,
+        .btn-share span, .btn-update span
+        {
+            border-color: #FF7300 !important;
+        }
+        .nav-primary li.parent:after,
+        .nav-primary li.parent:before{
+            border-left-color: #FF7300 !important;
+        }
+        .nav-primary li.parent.sub-menu-active:after, .nav-primary li.parent.menu-active:after
+        {
+            border-top-color: #FF7300 !important;
+            border-left-color:transparent !important;
+        }
+        a:hover,
+        a:focus,
+        a:active,
+        .minicategories a,
+        .btn-categorias,
+        .list-title p,
+        .btn-cart-text,
+        .btn-cart-text .count,
+        .btn-cart-text div span,
+        #active-account a,
+        #active-account a *,
+        #active-wish a:hover,
+        #active-wish a:active,
+        #active-wish a:focus,
+        #active-wish a *:hover,
+        #active-wish a *:active,
+        #active-wish a *:focus,
+        #active-wish count-wish,
+        .bx-controls a:hover,
+        .bx-controls a:focus,
+        .bx-controls a:active,
+        #nav a:hover,
+        #nav a:active,
+        #nav a:focus,
+        #nav span:hover,
+        #nav span:active,
+        #nav span:focus,
+        .desk-nav-title,
+        .roll-nav-btn,
+        #active-wish i,
+        .page-title h1, .page-title h2,
+        .accordion li.active a, .accordion a:hover,
+        .pager .pages .current,
+        .minicart-title,
+        .cart-collaterals .discount .button, .cart-collaterals .discount .button *,
+        #opc-login .buttons-set button.button span,
+        .btn-share span, .btn-update span,
+        #active-wish a .count-wish,
+        .col-login-form-register .registered-users .content .form-list label,
+        .col-login-form-register .registered-users .content .form-list .forgot-pass,
+        #nav li.menu-active .level-top, #nav li.menu-active .level-top span,
+        .block-tags .actions a:hover,
+        .block-tags .actions a:active,
+        .block-tags .actions a:focus,
+        #change-cep-filter:hover,
+        #change-cep-filter:active,
+        #change-cep-filter:focus,
+        .breadcrumbs strong
+        {
+            color:#FF7300 !important;
+        }
+        .header-icons *{
+            fill: #FF7300 !important;
+        }
+                .cart-table .btn-update,
+        .cart-table .btn-update *,
+        .my-wishlist .buttons-set .btn-share,
+        .my-wishlist .buttons-set .btn-update,
+        .my-wishlist .buttons-set .btn-share *,
+        .my-wishlist .buttons-set .btn-update *,
+        .block-tags .actions a:hover,
+        .block-tags .actions a:active,
+        .block-tags .actions a:focus,
+        #opc-login .buttons-set button.button span{
+            background: transparent !important;
+            background-color: transparent !important;
+        }
+        .footer-cart-actions-container .btn-update,
+        .footer-cart-actions-container .btn-update *,
+        .btn-minicart-action:hover,
+        .btn-minicart-action:focus,
+        .btn-minicart-action:active,
+        .products-list .al-product-item .buttonqty-col a:hover,
+        .products-list .al-product-item .buttonqty-col a:focus,
+        .products-list .al-product-item .buttonqty-col a:active,
+        .print-ctg:hover,
+        .print-ctg:focus,
+        .print-ctg:active,
+        #opc-login .buttons-set button.button span:hover,
+        #opc-login .buttons-set button.button span:focus,
+        #opc-login .buttons-set button.button span:active,
+        .col-left a[href*='wishlist'],
+        .col-left a[href*='wishlist']:hover,
+        .col-left a[href*='wishlist']:focus,
+        .col-left a[href*='wishlist']:active,
+        #active-cart .count,
+        .delete-item-minicart-anchor:hover,
+        .delete-item-minicart-anchor:active,
+        .delete-item-minicart-anchor:focus,
+        .btn-remove:hover,
+        .btn-remove:focus,
+        .btn-remove:active
+        {
+            color: #fff !important;
+        }
+        .block-tags .actions a:hover,
+        .block-tags .actions a:active,
+        .block-tags .actions a:focus{
+            border-color: none !important;
+        }
+
+    </style>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["AF","AL","DE","AD","AO","AI","AN","AQ","AG","AR","DZ","AM","AW","SA","AU","AZ","BS","BH","BD","BB","BZ","BJ","BM","BY","BO","BW","BR","BN","BG","BF","BI","BT","BE","BA","CV","KH","CA","QA","KZ","TD","CL","CN","CY","VA","SG","CO","KM","CG","CD","KP","KR","CR","CI","HR","CU","DK","DJ","DM","EG","SV","AE","EC","ER","SK","SI","ES","US","EE","ET","FJ","PH","FI","FR","GA","GH","GE","GS","GI","GD","GL","GR","GP","GU","GT","GG","GY","GF","GN","GW","GQ","GM","HT","NL","HN","HK","HU","BV","HM","NF","IM","KY","CC","CK","UM","FO","FK","MP","MH","CX","PN","SB","TC","VG","VI","AX","ID","IQ","IE","IR","IS","IL","IT","YE","JM","JP","JE","JO","KW","LA","LS","LV","LR","LI","LT","LU","LB","LY","MO","MK","MG","MW","MV","ML","MT","MY","MA","MQ","MR","MU","YT","MM","FM","MD","MN","ME","MS","MZ","MX","MC","NA","NR","NP","NI","NG","NU","NO","NC","NZ","NE","OM","PW","PA","PG","PK","PY","PE","PF","PL","PR","PT","KG","KI","KE","GB","CF","DO","CZ","CM","RE","RO","RW","RU","EH","PM","WS","AS","SM","SH","LC","SN","SL","SC","SO","LK","SZ","SD","SR","SE","CH","SJ","BL","KN","MF","ST","VC","RS","SY","TJ","TH","TW","TZ","IO","TF","PS","TL","TG","TK","TO","TT","TN","TM","TR","TV","UA","UG","UY","UZ","VU","VE","VN","WF","ZW","ZM","ZA","AT","IN"];
+//]]>
+</script>
+            <!-- BEGIN GOOGLE ANALYTICS CODE -->
+        <script type="text/javascript">
+        //<![CDATA[
+            var _gaq = _gaq || [];
+            
+_gaq.push(['_setAccount', 'UA-85011216-1']);
+
+_gaq.push(['_trackPageview']);
+            
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+        //]]>
+        </script>
+        <!-- END GOOGLE ANALYTICS CODE -->
+    
+<script>
+    window.algoliaConfig = {"instant":{"enabled":false,"infiniteScrollEnabled":false,"apiKey":"ZTllYzhlOTBlZjZmYTI1OTVkYTg1NjVlMGVmNzVjYzRiY2MyNDlkMTllMTEwMjQ1ODQ1OGQ2N2Y5OTE4ODliZGF0dHJpYnV0ZXNUb1JldHJpZXZlPSU1QiUyMm5hbWUlMjIlMkMlMjJkZXNjcmlwdGlvbiUyMiUyQyUyMmVhbiUyMiUyQyUyMm1hcmNhJTIyJTJDJTIyZmFicmljYW50ZSUyMiUyQyUyMnZlbmRpZG9fZW50cmVndWVfcG9yJTIyJTJDJTIyY2F0ZWdvcmllcyUyMiUyQyUyMmFkbWluX3Byb2R1Y3Rfbm90ZSUyMiUyQyUyMnNob3J0X2Rlc2NyaXB0aW9uJTIyJTJDJTIyc2t1JTIyJTJDJTIyb2JqZWN0SUQlMjIlMkMlMjJ1cmwlMjIlMkMlMjJ2aXNpYmlsaXR5X3NlYXJjaCUyMiUyQyUyMnZpc2liaWxpdHlfY2F0YWxvZyUyMiUyQyUyMmNhdGVnb3JpZXNfd2l0aG91dF9wYXRoJTIyJTJDJTIydGh1bWJuYWlsX3VybCUyMiUyQyUyMmltYWdlX3VybCUyMiUyQyUyMmluX3N0b2NrJTIyJTJDJTIydHlwZV9pZCUyMiUyQyUyMnZhbHVlJTIyJTJDJTIycHJpY2UuQlJMLmRlZmF1bHQlMjIlMkMlMjJwcmljZS5CUkwuZGVmYXVsdF9mb3JtYXRlZCUyMiUyQyUyMnByaWNlLkJSTC5ncm91cF8wJTIyJTJDJTIycHJpY2UuQlJMLmdyb3VwXzBfZm9ybWF0ZWQlMjIlMkMlMjJwcmljZS5CUkwuZ3JvdXBfMF9vcmlnaW5hbF9mb3JtYXRlZCUyMiUyQyUyMnByaWNlLkJSTC5zcGVjaWFsX2Zyb21fZGF0ZSUyMiUyQyUyMnByaWNlLkJSTC5zcGVjaWFsX3RvX2RhdGUlMjIlNUQmZmlsdGVycz0mbnVtZXJpY0ZpbHRlcnM9dmlzaWJpbGl0eV9zZWFyY2glM0Qx","selector":".main, .ma-banner7-container","isAddToCartEnabled":true,"showStaticContent":false,"title":"","description":"","content":"","imgHtml":"","hasFacets":false},"autocomplete":{"enabled":true,"apiKey":"ZTlhMWY4MThkODc2MTQxZGEyZjNhMDg4NjNlMDlkOWMxMTY5ZmY2YTU0YWExNmNjZDExYjliMTEzMDJkY2YzNWF0dHJpYnV0ZXNUb1JldHJpZXZlPSU1QiUyMm5hbWUlMjIlMkMlMjJkZXNjcmlwdGlvbiUyMiUyQyUyMmVhbiUyMiUyQyUyMm1hcmNhJTIyJTJDJTIyZmFicmljYW50ZSUyMiUyQyUyMnZlbmRpZG9fZW50cmVndWVfcG9yJTIyJTJDJTIyY2F0ZWdvcmllcyUyMiUyQyUyMmFkbWluX3Byb2R1Y3Rfbm90ZSUyMiUyQyUyMnNob3J0X2Rlc2NyaXB0aW9uJTIyJTJDJTIyc2t1JTIyJTJDJTIyb2JqZWN0SUQlMjIlMkMlMjJ1cmwlMjIlMkMlMjJ2aXNpYmlsaXR5X3NlYXJjaCUyMiUyQyUyMnZpc2liaWxpdHlfY2F0YWxvZyUyMiUyQyUyMmNhdGVnb3JpZXNfd2l0aG91dF9wYXRoJTIyJTJDJTIydGh1bWJuYWlsX3VybCUyMiUyQyUyMmltYWdlX3VybCUyMiUyQyUyMmluX3N0b2NrJTIyJTJDJTIydHlwZV9pZCUyMiUyQyUyMnZhbHVlJTIyJTJDJTIycHJpY2UuQlJMLmRlZmF1bHQlMjIlMkMlMjJwcmljZS5CUkwuZGVmYXVsdF9mb3JtYXRlZCUyMiUyQyUyMnByaWNlLkJSTC5ncm91cF8wJTIyJTJDJTIycHJpY2UuQlJMLmdyb3VwXzBfZm9ybWF0ZWQlMjIlMkMlMjJwcmljZS5CUkwuZ3JvdXBfMF9vcmlnaW5hbF9mb3JtYXRlZCUyMiUyQyUyMnByaWNlLkJSTC5zcGVjaWFsX2Zyb21fZGF0ZSUyMiUyQyUyMnByaWNlLkJSTC5zcGVjaWFsX3RvX2RhdGUlMjIlNUQmZmlsdGVycz0=","selector":".mh-search-input","sections":[],"nbOfProductsSuggestions":"12","nbOfCategoriesSuggestions":"4","nbOfQueriesSuggestions":"2","displaySuggestionsCategories":true,"isDebugEnabled":false},"extensionVersion":"1.14.0","applicationId":"K7C6OVVTR4","indexName":"default_suggestionsdefault","facets":[],"areCategoriesInFacets":false,"hitsPerPage":12,"sortingIndices":[],"isSearchPage":false,"isCategoryPage":false,"removeBranding":true,"productId":null,"priceKey":".BRL.default","currencyCode":"BRL","currencySymbol":"R$","maxValuesPerFacet":10,"autofocus":true,"ccAnalytics":{"ISSelector":".ais-infinite-hits--item a.result, .ais-hits a.result","conversionAnalyticsMode":"disabled","addToCartSelector":".add-to-cart-buttons .btn-cart, .hit-addtocart","orderedProductIds":[]},"analytics":{"enabled":true,"delay":3000,"triggerOnUIInteraction":true,"pushInitialSearch":false},"request":{"query":"","refinementKey":"","refinementValue":"","path":"","level":"","formKey":"9kydqLF5yfNQqY51"},"showCatsNotIncludedInNavigation":true,"showSuggestionsOnNoResultsPage":true,"baseUrl":"https:\/\/menu.com.vc","popularQueries":[],"useAdaptiveImage":false,"urlTrackedParameters":["query","attribute:*","index","page"],"urls":{"logo":"https:\/\/menu.com.vc\/skin\/frontend\/base\/default\/algoliasearch\/search-by-algolia.svg"},"now":"1546394400","translations":{"to":"para","or":"ou","go":"Ir","in":"em","popularQueries":"Voc\u00ca pode tentar alguns desses termos de busca","seeAll":"Ver todos os produtos","allDepartments":"Todas as Categorias","seeIn":"Ver produtos em","orIn":"ou em","noProducts":"Nenhum produto encontrado com o termo","noResults":"Nenhum produto encontrado","refine":"Filtrar por","selectedFilters":"Filtros Selecionados","clearAll":"Clear all","previousPage":"P\u00e1gina Anterior","nextPage":"Pr\u00f3xima P\u00e1gina","searchFor":"Procure seu produto aqui...","relevance":"Relev\u00e2ncia","categories":"Categorias","products":"Produtos","searchBy":"Procurar por","showMore":"Ver mais Produtos","searchForFacetValuesPlaceholder":"Procure por outros"}};
+</script>
+
+<!--[if lte IE 9]>
+<script>
+    document.addEventListener("DOMContentLoaded", function(e) {
+        algoliaBundle.$(function ($) {
+            window.algoliaConfig.autofocus = false;
+        });
+    });
+</script>
+<![endif]-->
+
+                        
+                            <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+                            <!--[if lte IE 9]>
+                                <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+                            <![endif]-->
+                        
+                    <script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"Tags HTML n\u00e3o s\u00e3o permitidas","Please select an option.":"Selecione uma op\u00e7\u00e3o.","This is a required field.":"Campo obrigat\u00f3rio.","Please enter a valid number in this field.":"Informe um n\u00famero v\u00e1lido.","The value is not within the specified range.":"O valor n\u00e3o est\u00e1 dentro do limite especificado.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"Utilize apenas n\u00fameros. Evite espa\u00e7os ou outros caracteres como pontos ou v\u00edrgulas.","Please use letters only (a-z or A-Z) in this field.":"Utilize apenas letras (a-z ou A-Z).","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Utilize apenas letras (a-z), n\u00fameros (0-9) ou underline(_), primeiro car\u00e1cter precisa ser uma letra.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Utilize apenas letras (a-z ou A-Z) ou n\u00fameros (0-9). Espa\u00e7os ou outros caracteres n\u00e3o ser\u00e3o permitidos.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Utilize apenas letras (a-z ou A-Z) ou n\u00fameros (0-9) ou espa\u00e7os e #.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Informe um n\u00famero de telefone v\u00e1lido. Por exemplo, (123) 456-7890 ou 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Informe um n\u00famero de celular v\u00e1lido. Por exemplo, (123) 456-7890 ou 123-456-7890.","Please enter a valid date.":"Informe uma data v\u00e1lida.","The From Date value should be less than or equal to the To Date value.":"A Data de In\u00e9cio deve ser menor ou igual \u00e0 Data Final.","Please enter a valid email address. For example johndoe@domain.com.":"Informe um endere\u00e7o de email v\u00e1lido. Por exemplo, johndoe@domain.com.","Please use only visible characters and spaces.":"Utilize apenas caracteres vis\u00edveis e espa\u00e7os.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Informe 7 ou mais caracteres. Senha precisa conter ambos caracteres, n\u00fameros e letras.","Please make sure your passwords match.":"Verifique se as senhas conferem.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Informe uma URL v\u00e1lida. Protocolo obrigat\u00f3rio (http:\/\/, https:\/\/ ou ftp:\/\/)","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Informe uma URL v\u00e1lida. Por exemplo, http:\/\/www.example.com ou www.example.com","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Informe uma URL v\u00e1lida. Por exemplo, \"exemplo-pagina\", \"exemplo-pagina.html\" ou \"umacategoria\/exemplo-pagina\".","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Informe um identificador XML v\u00e1lido. Por exemplo, algumacoisa_1, block5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Informe um CPF v\u00e1lido. Por exemplo, 123.455.678-9.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Informe um CEP v\u00e1lido. Por exemplo, 90602 ou 90602-1234.","Please enter a valid zip code.":"Informe um CEP v\u00e1lido.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Utilize este formato de data: dd\/mm\/yyyy. Por exemplo, 17\/03\/2006 para informar 17th de Mar\u00e7o, 2006.","Please enter a valid $ amount. For example $100.00.":"Informe um valor $ . Por exemplo, $100.00.","Please select one of the above options.":"Selecione uma das op\u00e7\u00f5es abaixo.","Please select one of the options.":"Selecione uma das op\u00e7\u00f5es.","Please select State\/Province.":"Selecione Estado...","Please enter a number greater than 0 in this field.":"Informe um n\u00famero maior que zero.","Please enter a number 0 or greater in this field.":"Informe um n\u00famero igual ou maior que zero.","Please enter a valid credit card number.":"Informe um n\u00famero de cart\u00e3o de cr\u00e9dito v\u00e1lido.","Credit card number does not match credit card type.":"N\u00famero do cart\u00e3o de cr\u00e9dito n\u00e3o condiz com tipo de cart\u00e3o.","Card type does not match credit card number.":"Tipo de cart\u00e3o n\u00e3o condiz com n\u00famero do cart\u00e3o de cr\u00e9dito.","Incorrect credit card expiration date.":"Data de expira\u00e7\u00e3o do cart\u00e3o n\u00e3o \u00e9 v\u00e1lido.","Please enter a valid credit card verification number.":"Informe um n\u00famero de verifica\u00e7\u00e3o de cart\u00e3o de cr\u00e9dito v\u00e1lido.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Informe um tamanho v\u00e1lido de CSS no campo. Por exemplo, 100px ou 77pt ou 20em ou .5ex ou 50%.","Text length does not satisfy specified text range.":"Tamanho do texto n\u00e3o satisfaz o espa\u00e7o de texto especificado.","Please enter a number lower than 100.":"Informe um n\u00famero menor que 100.","Please select a file":"Selecione um arquivo","Please enter issue number or start date for switch\/solo card type.":"Informe um n\u00famero de seguran\u00e7a ou data de validade para o tipo de cart\u00e3o switch\/solo.","Please wait, loading...":"Carregando...","This date is a required value.":"A data \u00e9 um valor obrigat\u00f3rio.","Please enter a valid day (1-%d).":"Informe um dia v\u00e1lido (1-%d).","Please enter a valid month (1-12).":"Informe um m\u00eas v\u00e1lido (1-12).","Please enter a valid year (1900-%d).":"Informe um ano v\u00e1lido (1900-%d).","Please enter a valid full date":"Informe uma data completa","Please enter a valid date between %s and %s":"Informe uma data v\u00e1lida entre %s e %s","Please enter a valid date equal to or greater than %s":"Informe uma data v\u00e1lida igual ou maior que %s","Please enter a valid date less than or equal to %s":"Informe uma data v\u00e1lida menor ou igual a %s","Complete":"Completo","Add Products":"Criar Produtos","Please choose to register or to checkout as a guest":"Criar conta ou continuar como visitante","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Seu pedido n\u00e3o pode ser finalizado no momento pois n\u00e3o h\u00e1 formas de entrega dispon\u00edveis para ele. Talvez seja necess\u00e1rio alterar seu endere\u00e7o de entrega.","Please specify shipping method.":"Informe um meio de entrega.","Your order cannot be completed at this time as there is no payment methods available for it.":"Seu pedido n\u00e3o pode ser finalizado neste momento pois n\u00e3o h\u00e1 formas de pagamento dispon\u00edveis para ele.","Please specify payment method.":"Informe uma forma de pagamento.","Add to Cart":"Comprar","In Stock":"Em estoque","Out of Stock":"Esgotado"});
+        //]]></script><script src="/js/jQMask/jquery.mask.min.js"></script>
+</head>
+<body class=" cms-index-noroute cms-pagina-inicial">
+<div class="wrapper">
+        <div class="page">
+		<div class="header-container">
+    <div class="top-link desktop-link">
+		<div class="container">
+			<div class="top-link-inner">
+				<div class="row">
+                    <div class="col-md-offset-6 col-sm-offset-6 col-xs-offset-0 col-md-6 col-sm-6 col-xs-12 call-message-container">
+                        <div class="toplink-text-top">
+                            <a href="https://menu.com.vc/faq/">Ajuda</a>
+                            <div>
+                            <span class="toplink-tel-label">Televendas: </span>                            <span>(11) 2667-4762 | 94212-8103 | 97105-8528</span>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+    </div>
+</div>
+<header class="menu-header">
+    <div class="menu-header-area container">
+        <div class="logo-menu-header">
+            <a href="https://menu.com.vc/" title="Menu.com.vc">
+                <img src="https://menu.com.vc/media/store/logo/stores/1/logomenupontocom.png" alt="Menu.com.vc">
+            </a>
+        </div>
+        <div class="input-menu-header">
+            
+<form id="search_mini_form" action="https://menu.com.vc/catalogsearch/result/" method="get">
+    
+    <div class="menu-header-search"> 
+        <input class="mh-search-input"  id="search" type="text" name="q" value="" placeholder="Buscar em 10.754 Produtos disponíveis" maxlength="128">
+        <button class="mh-search-btn" type="submit" title="Procurar" >
+            <i class="fas fa-search"></i>
+            <span>Buscar</span>
+        </button>
+       <!-- <div id="search_autocomplete" class="search-autocomplete"></div>-->
+        <script type="text/javascript">
+            //<![CDATA[
+            //     var placeholder = jQuery('#placeholder-input').text();
+            //     jQuery('.mh-search-input').attr('placeholder','Buscar em ' + placeholder);
+                var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+                searchForm.initAutocomplete('https://menu.com.vc/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            //]]>
+        </script>
+        </div>
+</form>
+
+            <div class="actions-menu-header">
+                <div id="active-account">
+                    <img class="svg header-icons" src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/header-icon-Perfil.svg" alt="Conta">
+                    <div class="text-account-box">
+                        <p>Olá,</p>
+                                                    <a href="https://menu.com.vc/customer/account/">
+                                <p>Entrar</p> <i class="fas fa-chevron-down"></i>
+                            </a>
+                                            </div>
+                    <div id="header-account-opt">
+                            <div class="links">
+                <ul>
+                                                <li class="first" ><a href="https://menu.com.vc/customer/account/" title="Minha Conta" >Minha Conta</a></li>
+                                                                <li ><a href="https://menu.com.vc/wishlist/" title="Lista de Compras" >Lista de Compras</a></li>
+                                                                <li class=" last" ><a href="https://menu.com.vc/customer/account/login/" title="Entrar" >Entrar</a></li>
+                                    </ul>
+    </div>
+                    </div>
+                </div>
+                <a id="active-cart" class="skip-link skip-cart  no-count">
+    <div class="minicart-icon-content">
+        <img class="svg header-icons" src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/header-icon-Carrinho.svg" alt="Carrinho">
+                    <span class="count">0</span>
+            </div>
+    <div class="btn-cart-text">
+        <span class="label">Carrinho</span>
+    </div>
+</a>
+                <div id="active-wish">
+    <img class="svg header-icons" src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/header-icon-Lista.svg" alt="Lista de Favoritos">
+                <a href="https://menu.com.vc/wishlist/">Lista de Favoritos</a>
+        <i class="fas fa-chevron-down"></i>
+</div>
+
+            </div>
+        </div>
+<!--        <div class="mobile-special-container call-cep-filter col-sm-offset-5 col-xs-offset-1 col-sm-4 col col-xs-8">-->
+<!--            --><!--        </div>-->
+    </div>
+    </header>
+    <div class="menu-nav-area">
+        <div class="menu-nav-container container">
+            <div class="col-md-2 call-cep-filter">
+                                <input type="text" id="cep-filter" placeholder="Insira seu CEP" class="toggle-big">
+    <!--                -->            </div>
+            <div class="col-md-10 advanced-filter">
+                <div class="menu-af-selector">
+    <select id="category">
+        <option selected disabled>Categorias</option>
+                                                                                <option id="340" value="https://menu.com.vc/alimentos-basicos">
+                        Alimentos Básicos                    </option>
+                                                                                                            <option id="360" value="https://menu.com.vc/bebidas">
+                        Bebidas                    </option>
+                                                                                                            <option id="375" value="https://menu.com.vc/bebidas-alcoolicas">
+                        Bebidas Alcoólicas                    </option>
+                                                                                                            <option id="386" value="https://menu.com.vc/biscoitos-e-salgadinhos">
+                        Biscoitos e Salgadinhos                    </option>
+                                                                                                            <option id="396" value="https://menu.com.vc/carnes-aves-e-peixes">
+                        Carnes, Aves e Peixes                    </option>
+                                                                                                            <option id="407" value="https://menu.com.vc/congelados">
+                        Congelados                    </option>
+                                                                                                            <option id="455" value="https://menu.com.vc/doces-e-sobremesas">
+                        Doces e Sobremesas                    </option>
+                                                                                                            <option id="463" value="https://menu.com.vc/farinhas-e-graos">
+                        Farinhas e Grãos                    </option>
+                                                                                                            <option id="467" value="https://menu.com.vc/feira">
+                        Feira                    </option>
+                                                                                                            <option id="475" value="https://menu.com.vc/frios-e-laticinios">
+                        Frios e Laticínios                    </option>
+                                                                                                            <option id="482" value="https://menu.com.vc/higiene-e-cuidados-pessoais">
+                        Higiene e Cuidados Pessoais                    </option>
+                                                                                                            <option id="489" value="https://menu.com.vc/leites-e-iogurtes">
+                        Leites e Iogurtes                    </option>
+                                                                                                            <option id="495" value="https://menu.com.vc/limpeza">
+                        Limpeza                    </option>
+                                                                                                            <option id="503" value="https://menu.com.vc/matinais">
+                        Matinais                    </option>
+                                                                                                            <option id="509" value="https://menu.com.vc/molhos-condimentos-e-conservas">
+                        Molhos, Condimentos e Conservas                    </option>
+                                                                                                            <option id="518" value="https://menu.com.vc/padaria">
+                        Padaria                    </option>
+                                                                                                            <option id="526" value="https://menu.com.vc/pet-shop-e-jardinagem">
+                        Pet Shop e Jardinagem                    </option>
+                                                                                                            <option id="532" value="https://menu.com.vc/utensilios-em-geral">
+                        Utensílios em Geral                    </option>
+                                                                                                            <option id="554" value="https://menu.com.vc/lista-franquias-didio">
+                        Lista Franquias Didio                    </option>
+                                        </select>
+</div>
+<div class="menu-af-selector">
+    <select id="sub-category">
+        <option selected disabled>Sub-Categorias</option>
+                                                                                <option id="519" value="https://menu.com.vc/padaria/bolos-e-tortas,518">
+                        Bolos e Tortas                    </option>
+                                                                                                            <option id="527" value="https://menu.com.vc/pet-shop-e-jardinagem/c-es,526">
+                        Cães                    </option>
+                                                                                                            <option id="533" value="https://menu.com.vc/utensilios-em-geral/automotivos,532">
+                        Automotivos                    </option>
+                                                                                                            <option id="342" value="https://menu.com.vc/alimentos-basicos/acucares-e-adocantes,340">
+                        Açucares e Adoçantes                    </option>
+                                                                                                            <option id="362" value="https://menu.com.vc/bebidas/achocolatados-e-bebidas-lacteas,360">
+                        Achocolatados e Bebidas Lácteas                    </option>
+                                                                                                            <option id="378" value="https://menu.com.vc/bebidas-alcoolicas/cervejas,375">
+                        Cervejas                    </option>
+                                                                                                            <option id="388" value="https://menu.com.vc/biscoitos-e-salgadinhos/amendoins-e-cia,386">
+                        Amendoins e Cia                    </option>
+                                                                                                            <option id="399" value="https://menu.com.vc/carnes-aves-e-peixes/aves,396">
+                        Aves                    </option>
+                                                                                                            <option id="408" value="https://menu.com.vc/congelados/aperitivos-e-empanados,407">
+                        Aperitivos e Empanados                    </option>
+                                                                                                            <option id="456" value="https://menu.com.vc/doces-e-sobremesas/balas-e-gomas-de-mascar,455">
+                        Balas e Gomas de Mascar                    </option>
+                                                                                                            <option id="464" value="https://menu.com.vc/farinhas-e-graos/farinaceos-e-amidos,463">
+                        Farináceos e Amidos                    </option>
+                                                                                                            <option id="468" value="https://menu.com.vc/feira/conservas,467">
+                        Conservas                    </option>
+                                                                                                            <option id="476" value="https://menu.com.vc/frios-e-laticinios/frios,475">
+                        Frios                    </option>
+                                                                                                            <option id="483" value="https://menu.com.vc/higiene-e-cuidados-pessoais/bebe,482">
+                        Bebê                    </option>
+                                                                                                            <option id="490" value="https://menu.com.vc/leites-e-iogurtes/iogurtes,489">
+                        Iogurtes                    </option>
+                                                                                                            <option id="494" value="https://menu.com.vc/limpeza/alcoois-e-removedores,495">
+                        Alcoóis e Removedores                    </option>
+                                                                                                            <option id="504" value="https://menu.com.vc/matinais/achocolatados-e-bebidas-lacteas,503">
+                        Achocolatados e Bebidas Lácteas                    </option>
+                                                                                                            <option id="510" value="https://menu.com.vc/molhos-condimentos-e-conservas/catchup-maionese-e-mostarda,509">
+                        Catchup, Maionese e Mostarda                    </option>
+                                                                                                            <option id="520" value="https://menu.com.vc/padaria/confeitaria,518">
+                        Confeitaria                    </option>
+                                                                                                            <option id="528" value="https://menu.com.vc/pet-shop-e-jardinagem/c-es-e-gatos,526">
+                        Cães e Gatos                    </option>
+                                                                                                            <option id="534" value="https://menu.com.vc/utensilios-em-geral/brinquedos,532">
+                        Brinquedos                    </option>
+                                                                                                            <option id="344" value="https://menu.com.vc/alimentos-basicos/arroz,340">
+                        Arroz                    </option>
+                                                                                                            <option id="364" value="https://menu.com.vc/bebidas/aguas,360">
+                        Águas                    </option>
+                                                                                                            <option id="380" value="https://menu.com.vc/bebidas-alcoolicas/destilados,375">
+                        Destilados                    </option>
+                                                                                                            <option id="390" value="https://menu.com.vc/biscoitos-e-salgadinhos/biscoitos-doces,386">
+                        Biscoitos Doces                    </option>
+                                                                                                            <option id="401" value="https://menu.com.vc/carnes-aves-e-peixes/bovinos,396">
+                        Bovinos                    </option>
+                                                                                                            <option id="409" value="https://menu.com.vc/congelados/hamburgueres,407">
+                        Hambúrgueres                    </option>
+                                                                                                            <option id="457" value="https://menu.com.vc/doces-e-sobremesas/chocolates,455">
+                        Chocolates                    </option>
+                                                                                                            <option id="465" value="https://menu.com.vc/farinhas-e-graos/fermentos,463">
+                        Fermentos                    </option>
+                                                                                                            <option id="469" value="https://menu.com.vc/feira/frutas,467">
+                        Frutas                    </option>
+                                                                                                            <option id="477" value="https://menu.com.vc/frios-e-laticinios/laticinios,475">
+                        Laticínios                    </option>
+                                                                                                            <option id="484" value="https://menu.com.vc/higiene-e-cuidados-pessoais/cabelo,482">
+                        Cabelo                    </option>
+                                                                                                            <option id="491" value="https://menu.com.vc/leites-e-iogurtes/leites-e-po,489">
+                        Leites em Pó                    </option>
+                                                                                                            <option id="496" value="https://menu.com.vc/limpeza/casa-em-geral,495">
+                        Casa em Geral                    </option>
+                                                                                                            <option id="505" value="https://menu.com.vc/matinais/aveias-e-cereais,503">
+                        Aveias e Cereais                    </option>
+                                                                                                            <option id="511" value="https://menu.com.vc/molhos-condimentos-e-conservas/conservas,509">
+                        Conservas                    </option>
+                                                                                                            <option id="512" value="https://menu.com.vc/molhos-condimentos-e-conservas/molhos-de-tomate,509">
+                        Molhos de Tomate                    </option>
+                                                                                                            <option id="529" value="https://menu.com.vc/pet-shop-e-jardinagem/gatos,526">
+                        Gatos                    </option>
+                                                                                                            <option id="535" value="https://menu.com.vc/utensilios-em-geral/casa-em-geral,532">
+                        Casa em Geral                    </option>
+                                                                                                            <option id="347" value="https://menu.com.vc/alimentos-basicos/farinaceos-e-amidos,340">
+                        Farináceos e Amidos                    </option>
+                                                                                                            <option id="366" value="https://menu.com.vc/bebidas/bebidas-de-soja,360">
+                        Bebidas de Soja                    </option>
+                                                                                                            <option id="381" value="https://menu.com.vc/bebidas-alcoolicas/vinhos-e-espumantes,375">
+                        Vinhos e Espumantes                    </option>
+                                                                                                            <option id="392" value="https://menu.com.vc/biscoitos-e-salgadinhos/biscoitos-salgados,386">
+                        Biscoitos Salgados                    </option>
+                                                                                                            <option id="402" value="https://menu.com.vc/carnes-aves-e-peixes/carnes-especiais,396">
+                        Carnes Especiais                    </option>
+                                                                                                            <option id="410" value="https://menu.com.vc/congelados/p-es,407">
+                        Pães                    </option>
+                                                                                                            <option id="458" value="https://menu.com.vc/doces-e-sobremesas/doces-prontos,455">
+                        Doces Prontos                    </option>
+                                                                                                            <option id="466" value="https://menu.com.vc/farinhas-e-graos/graos,463">
+                        Grãos                    </option>
+                                                                                                            <option id="470" value="https://menu.com.vc/feira/frutas-secas,467">
+                        Frutas Secas                    </option>
+                                                                                                            <option id="478" value="https://menu.com.vc/frios-e-laticinios/massas-frescas,475">
+                        Massas Frescas                    </option>
+                                                                                                            <option id="485" value="https://menu.com.vc/higiene-e-cuidados-pessoais/corpo,482">
+                        Corpo                    </option>
+                                                                                                            <option id="492" value="https://menu.com.vc/leites-e-iogurtes/leites-especiais,489">
+                        Leites Especiais                    </option>
+                                                                                                            <option id="497" value="https://menu.com.vc/limpeza/conveniencias,495">
+                        Conveniências                    </option>
+                                                                                                            <option id="506" value="https://menu.com.vc/matinais/cafes-e-chas,503">
+                        Cafés e Chás                    </option>
+                                                                                                            <option id="513" value="https://menu.com.vc/molhos-condimentos-e-conservas/molhos-diversos,509">
+                        Molhos Diversos                    </option>
+                                                                                                            <option id="522" value="https://menu.com.vc/padaria/doces,518">
+                        Doces                    </option>
+                                                                                                            <option id="530" value="https://menu.com.vc/pet-shop-e-jardinagem/passaros-e-peixes,526">
+                        Pássaros e Peixes                    </option>
+                                                                                                            <option id="536" value="https://menu.com.vc/utensilios-em-geral/churrasco,532">
+                        Churrasco                    </option>
+                                                                                                            <option id="349" value="https://menu.com.vc/alimentos-basicos/feijao,340">
+                        Feijão                    </option>
+                                                                                                            <option id="368" value="https://menu.com.vc/bebidas/chas-prontos,360">
+                        Chás prontos                    </option>
+                                                                                                            <option id="383" value="https://menu.com.vc/bebidas-alcoolicas/whiskies,375">
+                        Whiskies                    </option>
+                                                                                                            <option id="394" value="https://menu.com.vc/biscoitos-e-salgadinhos/salgadinhos-e-snacks,386">
+                        Salgadinhos e Snacks                    </option>
+                                                                                                            <option id="403" value="https://menu.com.vc/carnes-aves-e-peixes/carnes-secas-salgadas-ou-defumadas,396">
+                        Carnes Secas, Salgadas ou Defumadas                    </option>
+                                                                                                            <option id="411" value="https://menu.com.vc/congelados/pratos-prontos,407">
+                        Pratos Prontos                    </option>
+                                                                                                            <option id="459" value="https://menu.com.vc/doces-e-sobremesas/frutas-em-calda,455">
+                        Frutas em Calda                    </option>
+                                                                                                            <option id="472" value="https://menu.com.vc/feira/temperos-e-caldos,467">
+                        Temperos e Caldos                    </option>
+                                                                                                            <option id="479" value="https://menu.com.vc/frios-e-laticinios/pratos-prontos,475">
+                        Pratos Prontos                    </option>
+                                                                                                            <option id="486" value="https://menu.com.vc/higiene-e-cuidados-pessoais/farmacia,482">
+                        Farmácia                    </option>
+                                                                                                            <option id="493" value="https://menu.com.vc/leites-e-iogurtes/leites-tradicionais,489">
+                        Leites Tradicionais                    </option>
+                                                                                                            <option id="498" value="https://menu.com.vc/limpeza/cozinha,495">
+                        Cozinha                    </option>
+                                                                                                            <option id="507" value="https://menu.com.vc/matinais/chas-prontos,503">
+                        Chás Prontos                    </option>
+                                                                                                            <option id="514" value="https://menu.com.vc/molhos-condimentos-e-conservas/peixes-enlatados,509">
+                        Peixes Enlatados                    </option>
+                                                                                                            <option id="523" value="https://menu.com.vc/padaria/paes,518">
+                        Pães                    </option>
+                                                                                                            <option id="531" value="https://menu.com.vc/pet-shop-e-jardinagem/plantas-e-flores,526">
+                        Plantas e Flores                    </option>
+                                                                                                            <option id="537" value="https://menu.com.vc/utensilios-em-geral/conveniencias,532">
+                        Conveniências                    </option>
+                                                                                                            <option id="351" value="https://menu.com.vc/alimentos-basicos/massas-secas,340">
+                        Massas Secas                    </option>
+                                                                                                            <option id="370" value="https://menu.com.vc/bebidas/isotonicos-e-energeticos,360">
+                        Isotônicos e Energéticos                    </option>
+                                                                                                            <option id="404" value="https://menu.com.vc/carnes-aves-e-peixes/linguicas-e-salsichas,396">
+                        Linguiças e Salsichas                    </option>
+                                                                                                            <option id="412" value="https://menu.com.vc/congelados/sorvetes-e-sobremesas,407">
+                        Sorvetes e Sobremesas                    </option>
+                                                                                                            <option id="460" value="https://menu.com.vc/doces-e-sobremesas/ingredientes-culinarios,455">
+                        Ingredientes Culinários                    </option>
+                                                                                                            <option id="473" value="https://menu.com.vc/feira/temperos-frescos,467">
+                        Temperos Frescos                    </option>
+                                                                                                            <option id="480" value="https://menu.com.vc/frios-e-laticinios/queijos,475">
+                        Queijos                    </option>
+                                                                                                            <option id="487" value="https://menu.com.vc/higiene-e-cuidados-pessoais/higiene,482">
+                        Higiene                    </option>
+                                                                                                            <option id="499" value="https://menu.com.vc/limpeza/desodorizadores-e-aromatizantes,495">
+                        Desodorizadores e Aromatizantes                    </option>
+                                                                                                            <option id="508" value="https://menu.com.vc/matinais/mel-e-geleias,503">
+                        Mel e Geleias                    </option>
+                                                                                                            <option id="515" value="https://menu.com.vc/molhos-condimentos-e-conservas/pratos-prontos,509">
+                        Pratos Prontos                    </option>
+                                                                                                            <option id="524" value="https://menu.com.vc/padaria/panetones,518">
+                        Panetones                    </option>
+                                                                                                            <option id="538" value="https://menu.com.vc/utensilios-em-geral/cozinha,532">
+                        Cozinha                    </option>
+                                                                                                            <option id="353" value="https://menu.com.vc/alimentos-basicos/oleos-azeites-e-vinagres,340">
+                        Óleos, Azeites e Vinagres                    </option>
+                                                                                                            <option id="372" value="https://menu.com.vc/bebidas/refrigerantes,360">
+                        Refrigerantes                    </option>
+                                                                                                            <option id="405" value="https://menu.com.vc/carnes-aves-e-peixes/peixes,396">
+                        Peixes                    </option>
+                                                                                                            <option id="413" value="https://menu.com.vc/congelados/vegetais-congelados,407">
+                        Vegetais Congelados                    </option>
+                                                                                                            <option id="461" value="https://menu.com.vc/doces-e-sobremesas/pastas-e-cremes,455">
+                        Pastas e Cremes                    </option>
+                                                                                                            <option id="474" value="https://menu.com.vc/feira/verduras,467">
+                        Verduras                    </option>
+                                                                                                            <option id="481" value="https://menu.com.vc/frios-e-laticinios/salames,475">
+                        Salames                    </option>
+                                                                                                            <option id="488" value="https://menu.com.vc/higiene-e-cuidados-pessoais/higiene-bucal,482">
+                        Higiene Bucal                    </option>
+                                                                                                            <option id="500" value="https://menu.com.vc/limpeza/inseticidas,495">
+                        Inseticidas                    </option>
+                                                                                                            <option id="516" value="https://menu.com.vc/molhos-condimentos-e-conservas/sopas-caldos-e-cremes,509">
+                        Sopas, Caldos e Cremes                    </option>
+                                                                                                            <option id="525" value="https://menu.com.vc/padaria/torradas,518">
+                        Torradas                    </option>
+                                                                                                            <option id="539" value="https://menu.com.vc/utensilios-em-geral/embalagens,532">
+                        Embalagens                    </option>
+                                                                                                            <option id="354" value="https://menu.com.vc/alimentos-basicos/ovos,340">
+                        Ovos                    </option>
+                                                                                                            <option id="373" value="https://menu.com.vc/bebidas/sucos,360">
+                        Sucos                    </option>
+                                                                                                            <option id="406" value="https://menu.com.vc/carnes-aves-e-peixes/suinos,396">
+                        Suínos                    </option>
+                                                                                                            <option id="462" value="https://menu.com.vc/doces-e-sobremesas/pudins-e-gelatinas,455">
+                        Pudins e Gelatinas                    </option>
+                                                                                                            <option id="471" value="https://menu.com.vc/feira/legumes,467">
+                        Legumes                    </option>
+                                                                                                            <option id="501" value="https://menu.com.vc/limpeza/roupas,495">
+                        Roupas                    </option>
+                                                                                                            <option id="517" value="https://menu.com.vc/molhos-condimentos-e-conservas/temperos-e-caldos,509">
+                        Temperos e Caldos                    </option>
+                                                                                                            <option id="540" value="https://menu.com.vc/utensilios-em-geral/papelaria,532">
+                        Papelaria                    </option>
+                                                                                                            <option id="357" value="https://menu.com.vc/alimentos-basicos/sal,340">
+                        Sal                    </option>
+                                                                                                            <option id="502" value="https://menu.com.vc/limpeza/utensilios-de-limpeza,495">
+                        Utensílios de Limpeza                    </option>
+                                        </select>
+</div>
+
+<div class="menu-af-selector">
+    <select id="vendido_entregue_por">
+        <option selected disabled>Fornecedores</option>
+                    <option id="482" value="482">
+                Alliance Truck Parts            </option>
+                    <option id="499" value="499">
+                Avatti            </option>
+                    <option id="13" value="13">
+                Bebidaria            </option>
+                    <option id="333" value="333">
+                Bev Group            </option>
+                    <option id="10" value="10">
+                BHR Gastronomia            </option>
+                    <option id="11" value="11">
+                BRFoods            </option>
+                    <option id="356" value="356">
+                Brico Bread            </option>
+                    <option id="500" value="500">
+                Bufala Almeida Prado            </option>
+                    <option id="343" value="343">
+                Canta Claro            </option>
+                    <option id="498" value="498">
+                Central Foods            </option>
+                    <option id="477" value="477">
+                Chef Meat            </option>
+                    <option id="357" value="357">
+                DB Brasil            </option>
+                    <option id="480" value="480">
+                Didio            </option>
+                    <option id="341" value="341">
+                Duga            </option>
+                    <option id="348" value="348">
+                Eaton            </option>
+                    <option id="352" value="352">
+                Elo Fruti            </option>
+                    <option id="359" value="359">
+                Epic            </option>
+                    <option id="5" value="5">
+                Forte Alimentos            </option>
+                    <option id="361" value="361">
+                Frigo Estrela            </option>
+                    <option id="355" value="355">
+                Frigocenter            </option>
+                    <option id="358" value="358">
+                Frimesa            </option>
+                    <option id="12" value="12">
+                Gavimax            </option>
+                    <option id="15" value="15">
+                GeneSeas            </option>
+                    <option id="340" value="340">
+                Germinou            </option>
+                    <option id="350" value="350">
+                Heinz            </option>
+                    <option id="452" value="452">
+                Hideal Distribuidora            </option>
+                    <option id="347" value="347">
+                IKS            </option>
+                    <option id="16" value="16">
+                IKS Embalagens            </option>
+                    <option id="444" value="444">
+                IKS Master            </option>
+                    <option id="346" value="346">
+                Ingram Micro            </option>
+                    <option id="451" value="451">
+                Kelma            </option>
+                    <option id="8" value="8">
+                Mega G            </option>
+                    <option id="9" value="9">
+                Menupontocom            </option>
+                    <option id="6" value="6">
+                Monte Carlo Alimentos            </option>
+                    <option id="337" value="337">
+                Mr Veggy            </option>
+                    <option id="475" value="475">
+                MSkin            </option>
+                    <option id="334" value="334">
+                Mun            </option>
+                    <option id="474" value="474">
+                Não Informado            </option>
+                    <option id="481" value="481">
+                Nap Hortifruti            </option>
+                    <option id="351" value="351">
+                Natural One            </option>
+                    <option id="335" value="335">
+                Nomoo            </option>
+                    <option id="354" value="354">
+                Novamix            </option>
+                    <option id="344" value="344">
+                Paru Brasil            </option>
+                    <option id="7" value="7">
+                PMG Atacadista            </option>
+                    <option id="338" value="338">
+                Positiva            </option>
+                    <option id="339" value="339">
+                Preá            </option>
+                    <option id="342" value="342">
+                Quero POC            </option>
+                    <option id="14" value="14">
+                Rio Quality            </option>
+                    <option id="360" value="360">
+                Roge Distribuidora            </option>
+                    <option id="455" value="455">
+                RTC            </option>
+                    <option id="617" value="617">
+                Sandyla            </option>
+                    <option id="454" value="454">
+                Seu Gil            </option>
+                    <option id="17" value="17">
+                Só Orgânicos            </option>
+                    <option id="345" value="345">
+                Theo Uniformes            </option>
+                    <option id="18" value="18">
+                Tiferet            </option>
+                    <option id="19" value="19">
+                Top Service            </option>
+                    <option id="336" value="336">
+                Vida Veg            </option>
+                    <option id="453" value="453">
+                Vila Nova            </option>
+                    <option id="450" value="450">
+                WRCL Distribuidora            </option>
+            </select>
+</div>            </div>
+        </div>
+    </div>
+<!--    <div class="nav-menu-container-overflow container">-->
+<!--        <div class="container-nav-menu">-->
+<!--        </div>-->
+<!--    </div>-->
+ <header class="menu-mobile-header"> <!-- header mobile-->
+    <div class="menu-mobile-option"> <!-- categorias abrir -->
+            <!-- botao -->
+        <button class=" btn btn-mobile-menu btn-bg cate-gories sfa-de" type="button">
+            <i class="fas fa-bars pdropicon "></i><!-- icone hamburguer-->
+        </button>
+    </div>
+    <div> <!-- buscar abrir -->
+        <!-- botao -->
+        <button id="sear-ch" class="btn btn-mobile-menu btn-bg fa-de" type="button">
+            <i class="fas fa-search pdropicon"></i>
+			<span class="mobile-bar-drop"> Buscar</span> <!-- title only 509px -->
+        </button>
+    </div>
+    <div>
+        <a class="btn btn-mobile-menu acc-ount fa-de " href= "https://menu.com.vc/customer/account/" type="button">
+            <i class="fas fa-user pdropicon"></i>
+            <span class="mobile-bar-drop">Conta</span> <!-- title only 509px-->
+        </a>
+    </div>
+        <div>
+        <a id="btn-minicart-active" class="btn btn-mobile-menu fa-de " type="button">
+            <i class="fas fa-shopping-cart pdropicon"></i>
+            <span class="mobile-bar-drop"> Carrinho</span> <!-- title only 509px-->
+        </a>
+        <a id="btn-cart-link-header" href= "https://menu.com.vc/checkout/cart/" class="btn btn-mobile-menu fa-de " type="button">
+            <i class="fas fa-shopping-cart pdropicon"></i>
+            <span class="mobile-bar-drop"> Carrinho</span> <!-- title only 509px-->
+        </a>
+    </div>
+</header>
+<div class="cf-search">   <!-- search header mobile -->
+    <div>
+        
+<form id="search_mini_form" action="https://menu.com.vc/catalogsearch/result/" method="get">
+    
+    <div class="menu-header-search"> 
+        <input class="mh-search-input"  id="search" type="text" name="q" value="" placeholder="Buscar em 10.754 Produtos disponíveis" maxlength="128">
+        <button class="mh-search-btn" type="submit" title="Procurar" >
+            <i class="fas fa-search"></i>
+            <span>Buscar</span>
+        </button>
+       <!-- <div id="search_autocomplete" class="search-autocomplete"></div>-->
+        <script type="text/javascript">
+            //<![CDATA[
+            //     var placeholder = jQuery('#placeholder-input').text();
+            //     jQuery('.mh-search-input').attr('placeholder','Buscar em ' + placeholder);
+                var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+                searchForm.initAutocomplete('https://menu.com.vc/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            //]]>
+        </script>
+        </div>
+</form>
+
+    </div>
+</div>
+<div class="menuss nav-mobile-menuss"> <!-- menu mobile -->
+</div>
+
+<div id="header-cart" class=" minicart-overlay-container block block-cart skip-content">
+    
+    
+<div class="minicart-wrapper minicart-list-box minicart-noitems">
+    <div class="minicart-box-header">
+        <!--    <a class="cart-link" href="--><!--">-->
+        <h3 class="minicart-title">
+            Últimos Adicionados        </h3>
+        <!--    </a>-->
+        <button id="close-cart-box"><i class="fa fa-times"></i></button>
+    </div>
+      <div class="minicart-box-header home">
+          <h3 class="empty">Nenhum produto no carrinho.</h3>
+      </div>
+</div>
+  
+
+
+<script type="text/javascript">
+    truncateOptions();
+    decorateList('cart-sidebar', 'none-recursive');
+    $j(document).ready(function($j){
+        $j(document).ready(function() {
+            var minicartOptions  = {
+                formKey:           "9kydqLF5yfNQqY51"
+            }
+            var Mini = new Minicart(minicartOptions);
+            Mini.init();
+        });
+    });
+
+    jQuery('.minicart-qty-container').each(function () {
+        var mcqtyContainer = jQuery(this);
+        mcqtyContainer.find('a').click(function () {
+            mcqtyContainer.css('padding-right','0');
+            mcqtyContainer.find('.quantity-button').removeAttr('disabled');
+            mcqtyContainer.find('.quantity-button').css('display','block');
+        });        
+    })
+    jQuery(".minicart-qty-container").each(function () {
+        var qty = jQuery(this).find(".qty");
+        var incrementQty = jQuery(this).find("input#incrementQty");
+        var maxIncrementQty = jQuery(this).find("input#maxIncrementQty");
+        var qtyCount = jQuery(qty).val();
+        var qtyIncrementQty = jQuery(incrementQty).val();
+        qtyCount = Number(qtyCount);
+        if (Number.isInteger(qtyCount)){
+            qtyCount = parseInt(qtyCount);
+            qtyIncrementQty = parseInt(qtyIncrementQty);
+        }else{
+            qtyCount = parseFloat(qtyCount);
+            qtyCount =  Math.round(qtyCount * 100) / 100;
+            qtyIncrementQty = parseFloat(qtyIncrementQty);
+        }
+        jQuery(this).find("#qty-more").click(function () {
+            qtyCount = jQuery(qty).val();
+            qtyCount = Number(qtyCount);
+            if (Number.isInteger(qtyCount)){
+                qtyCount = parseInt(qtyCount);
+                if (qtyCount >= maxIncrementQty) {
+                    qtyCount = maxIncrementQty;
+                    qty.val(qtyCount);
+                }
+                else{
+                    qtyCount = qtyCount + qtyIncrementQty;
+                    qtyCount = qtyCount.toString();
+                    qty.val(qtyCount);
+                };
+            }else{
+                qtyCount = parseFloat(qtyCount);
+                if (qtyCount >= maxIncrementQty) {
+                    qtyCount = maxIncrementQty;
+                    console.log(qtyCount);
+                    qtyCount =  Math.round(qtyCount * 100) / 100;
+                    qty.val(qtyCount);
+                }
+                else{
+                    qtyCount = qtyCount + qtyIncrementQty;
+                    qtyCount =  Math.round(qtyCount * 100) / 100;
+                    qtyCount = qtyCount.toString();
+                    console.log(qtyCount);
+                    qty.val(qtyCount);
+                };
+            };
+        });
+        jQuery(this).find("#qty-less").click(function () {
+            qtyCount = jQuery(qty).val();
+            qtyCount = Number(qtyCount);
+            if (Number.isInteger(qtyCount)){
+                qtyCount = parseInt(qtyCount);
+                if (qtyCount <= qtyIncrementQty) {
+                    qty.val(qtyIncrementQty);
+                }
+                else{
+                    qtyCount = qtyCount - qtyIncrementQty;
+                    qtyCount = qtyCount.toString();
+                    qty.val(qtyCount);
+                };
+            }else{
+                qtyCount = parseFloat(qtyCount);
+                if (qtyCount <= qtyIncrementQty) {
+                    qty.val(qtyIncrementQty);
+                }
+                else{
+                    qtyCount = qtyCount - qtyIncrementQty;
+                    qtyCount =  Math.round(qtyCount * 100) / 100;
+                    qtyCount = qtyCount.toString();
+                    qty.val(qtyCount);
+                };
+            };
+        });
+    });
+</script></div>
+		        		<div class="main-container col1-layout">
+			<div class="container container-padding">
+				<div class="container-inner">
+					<div class="main">
+												<!-- Category Image-->
+                        						<!--   -->
+						<div class="col-main">
+														<div id="algolia-autocomplete-container"></div><div class="std"><div class="categorytab-slider">
+	<div class="tab-title"><h2>Especial Feliz 2019!</h2>		<ul class="tabs tabs-EspecialFeliz2019  tab_categorys"> 
+			   						<li class="active" rel="tab15-EspecialFeliz2019">Especial Feliz 2019!</li>
+<!--				-->		</ul>
+	</div>
+	<div class="tab_container"> 
+<!--		-->		 <div id="tab15-EspecialFeliz2019" class="tab_content_EspecialFeliz2019"> 
+						<!--			--><!--            -->		<ul class="bxslider products-grid">	
+		                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/nutella-creme-avella-650gr-caixa-c-6-un" title="NUTELLA CREME AVELLA 650GR" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/M/C/MCA6714.jpg" width="300" height="300" alt="NUTELLA CREME AVELLA 650GR" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/M/C/MCA6714.jpg" width="300" height="300" alt="NUTELLA CREME AVELLA 650GR" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/nutella-creme-avella-650gr-caixa-c-6-un" title="NUTELLA CREME AVELLA 650GR">NUTELLA CREME AVELLA 650GR</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-1962">
+                                            <span class="price">R$26,40</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/1962/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/1962/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_1962">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Monte Carlo Alimentos"/>Monte Carlo Alimentos</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/uva-passa-escura-pct-1kg-caixa-c-12-un" title="UVA PASSA ESCURA PCT 1KG" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/M/C/MCA7756.jpg" width="300" height="300" alt="UVA PASSA ESCURA PCT 1KG" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/M/C/MCA7756.jpg" width="300" height="300" alt="UVA PASSA ESCURA PCT 1KG" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/uva-passa-escura-pct-1kg-caixa-c-12-un" title="UVA PASSA ESCURA PCT 1KG">UVA PASSA ESCURA PCT 1KG</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-2003">
+                                            <span class="price">R$12,15</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/2003/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/2003/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_2003">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="0" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Monte Carlo Alimentos"/>Monte Carlo Alimentos</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/gallant-taca-champanhe-cx12pcs-180-ml" title="(cod BHR: 7808) GALLANT TACA CHAMPANHE -  180 ML" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/g/a/gallant_taca_champanhe_cx12pcs_-_180_ml.jpg" width="300" height="300" alt="(cod BHR: 7808) GALLANT TACA CHAMPANHE -  180 ML" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/g/a/gallant_taca_champanhe_cx12pcs_-_180_ml.jpg" width="300" height="300" alt="(cod BHR: 7808) GALLANT TACA CHAMPANHE -  180 ML" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/gallant-taca-champanhe-cx12pcs-180-ml" title="(cod BHR: 7808) GALLANT TACA CHAMPANHE -  180 ML">(cod BHR: 7808) GALLANT TACA CHAMPANHE -  180 ML</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-17632">
+                                            <span class="price">R$4,61</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/17632/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/17632/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_17632">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="0" value="12" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: BHR Gastronomia"/>BHR Gastronomia</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        					                        					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/espumante-nac-salton-demi-sec-750ml" title="Espum._Nac._Salton_Demi-Sec_750ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463731529_Espum._Nac._Salton_Demi-Sec_750ml.jpg_1.jpg" width="300" height="300" alt="Espum._Nac._Salton_Demi-Sec_750ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463731529_Espum._Nac._Salton_Demi-Sec_750ml.jpg_1.jpg" width="300" height="300" alt="Espum._Nac._Salton_Demi-Sec_750ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/espumante-nac-salton-demi-sec-750ml" title="ESPUMANTE NAC. SALTON DEMI-SEC 750ML">ESPUMANTE NAC. SALTON DEMI-SEC 750ML</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26269">
+                                            <span class="price">R$32,99</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26269/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26269/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26269">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/espumante-nac-salton-moscatel-750ml" title="Espum._Nac._Salton_Moscatel_750ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463731546_Espum._Nac._Salton_Moscatel_750ml.jpg_1.jpg" width="300" height="300" alt="Espum._Nac._Salton_Moscatel_750ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463731546_Espum._Nac._Salton_Moscatel_750ml.jpg_1.jpg" width="300" height="300" alt="Espum._Nac._Salton_Moscatel_750ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/espumante-nac-salton-moscatel-750ml" title="ESPUMANTE NAC. SALTON MOSCATEL 750ML">ESPUMANTE NAC. SALTON MOSCATEL 750ML</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26270">
+                                            <span class="price">R$32,99</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26270/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26270/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26270">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/refri-coca-cola-350ml-c-12" title="Refri._Coca_Cola_Lata_350ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/466094973_Refri._Coca_Cola_Lata_350ml.jpg_2.jpg" width="300" height="300" alt="Refri._Coca_Cola_Lata_350ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/466094973_Refri._Coca_Cola_Lata_350ml.jpg_2.jpg" width="300" height="300" alt="Refri._Coca_Cola_Lata_350ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/refri-coca-cola-350ml-c-12" title="REFRI. COCA COLA 350ML C/12">REFRI. COCA COLA 350ML C/12</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26301">
+                                            <span class="price">R$28,70</span>                                                    <small><span class="price">R$2,39</span>/unid.</small>
+                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26301/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26301/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26301">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        					                        					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/bacalhau-dessalgado-pedacos-congelados-800-g" title="BACALHAU DESSALGADO PEDAÇOS CONGELADOS 800 g" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/0/1/01034_1.jpg" width="300" height="300" alt="BACALHAU DESSALGADO PEDAÇOS CONGELADOS 800 g" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/0/1/01034.jpg" width="300" height="300" alt="BACALHAU DESSALGADO PEDAÇOS CONGELADOS 800 g" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/bacalhau-dessalgado-pedacos-congelados-800-g" title="BACALHAU DESSALGADO PEDAÇOS CONGELADOS 800 g">BACALHAU DESSALGADO PEDAÇOS CONGELADOS 800 g</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-32263">
+                                            <span class="price">R$27,21</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/32263/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/32263/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_32263">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Central Foods"/>Central Foods</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        														</ul>
+			<script type="text/javascript">
+						$jq(document).ready(function(){
+													  $jq("#tab15-EspecialFeliz2019 .bxslider").bxSlider(
+							{
+							  speed: 600,
+							  pause: 600,			  
+							  minSlides:1,
+							  maxSlides: 25,
+							  slideWidth: 80,
+							  slideMargin:20,
+							 
+							  pager:false, 
+																						controls: true,
+														moveSlides:2,
+							}
+						  );
+						});
+					</script>
+		 </div><!-- #tab1 -->
+<!--		 -->	 </div> <!-- .tab_container --> 
+</div>
+<script type="text/javascript">
+
+$jq(document).ready(function() {
+	
+	$jq(".tab_content_EspecialFeliz2019").hide();
+	$jq(".tab_content_EspecialFeliz2019:first").show(); 
+
+	$jq("ul.tabs-EspecialFeliz2019 li").click(function() {
+		$jq("ul.tabs-EspecialFeliz2019 li").removeClass("active");
+		$jq(this).addClass("active");
+		$jq(".tab_content_EspecialFeliz2019").hide();
+		var activeTab = $jq(this).attr("rel"); 
+		$jq("#"+activeTab).fadeIn(); 
+	});
+});
+
+</script> 
+
+<hr>
+
+
+<br>
+
+<div class="row text-center">
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">Marcas que recomendamos para você</span></strong></p>
+
+
+
+</div>
+</div>
+
+<div class="row text-center">
+<div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">Marcas que recomendamos para você</span></strong></p>
+</div>
+</div>
+
+<br>
+
+
+<div class="ma-brand-slider-contain">
+    <!--	<div class="brand-title ma-title"><h2>--><!--</h2></div>-->
+          	<ul class="bxslider">
+				                                    <li class="item">
+                        <div class="item-inner">
+                                                            <img src="https://menu.com.vc/media/store/brands/stores/1/aurora_logo.jpg"/>
+                            <!--                        --><!--                            <div class="ma-des">-->
+<!--                                <div class="ma-des-title"><h2>--><!--</h2></div>-->
+<!--                                <div class="ma-des-content">--><!--</div>-->
+<!--                            </div>-->
+<!--                        -->                        </div>
+                    </li>
+                                                                    <li class="item">
+                        <div class="item-inner">
+                                                            <img src="https://menu.com.vc/media/store/brands/stores/1/Imagem74.jpg"/>
+                            <!--                        --><!--                            <div class="ma-des">-->
+<!--                                <div class="ma-des-title"><h2>--><!--</h2></div>-->
+<!--                                <div class="ma-des-content">--><!--</div>-->
+<!--                            </div>-->
+<!--                        -->                        </div>
+                    </li>
+                                                                    <li class="item">
+                        <div class="item-inner">
+                                                            <img src="https://menu.com.vc/media/store/brands/stores/1/Imagem48.jpg"/>
+                            <!--                        --><!--                            <div class="ma-des">-->
+<!--                                <div class="ma-des-title"><h2>--><!--</h2></div>-->
+<!--                                <div class="ma-des-content">--><!--</div>-->
+<!--                            </div>-->
+<!--                        -->                        </div>
+                    </li>
+                                                                    <li class="item">
+                        <div class="item-inner">
+                                                            <img src="https://menu.com.vc/media/store/brands/stores/1/logo-ceratti.png"/>
+                            <!--                        --><!--                            <div class="ma-des">-->
+<!--                                <div class="ma-des-title"><h2>--><!--</h2></div>-->
+<!--                                <div class="ma-des-content">--><!--</div>-->
+<!--                            </div>-->
+<!--                        -->                        </div>
+                    </li>
+                                                                    <li class="item">
+                        <div class="item-inner">
+                                                            <img src="https://menu.com.vc/media/store/brands/stores/1/knorr_tcm1284-408767_w280.png"/>
+                            <!--                        --><!--                            <div class="ma-des">-->
+<!--                                <div class="ma-des-title"><h2>--><!--</h2></div>-->
+<!--                                <div class="ma-des-content">--><!--</div>-->
+<!--                            </div>-->
+<!--                        -->                        </div>
+                    </li>
+                                                                    <li class="item">
+                        <div class="item-inner">
+                                                            <img src="https://menu.com.vc/media/store/brands/stores/1/Imagem65.jpg"/>
+                            <!--                        --><!--                            <div class="ma-des">-->
+<!--                                <div class="ma-des-title"><h2>--><!--</h2></div>-->
+<!--                                <div class="ma-des-content">--><!--</div>-->
+<!--                            </div>-->
+<!--                        -->                        </div>
+                    </li>
+                                            </ul>
+            <script type="text/javascript">
+			       //<![CDATA[
+					$jq(document).ready(function(){
+					  $jq('.ma-brand-slider-contain .bxslider').bxSlider(
+						{
+												  speed: 300,
+						  pause: 0,			  
+						  minSlides: 1,
+						  maxSlides: 99,
+						  slideWidth: 100,
+						  slideMargin:25,
+					      
+						  pager:false, 
+																			controls: true,
+												moveSlides:2,
+						}
+					  );
+					});
+				//]]>
+				</script>
+</div>
+
+
+
+
+<br>
+<hr>
+<br>
+
+<br>
+
+<div class="row text-center">
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">Quer ser um de nossos fornecedores?</span></strong></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: small;">Veja quem já está vendendo no nosso portal</span></p>
+<a href="https://menu.com.vc/fornecedores"><p><span style="font-family: helvetica; color: #22222; font-size: small;">Já possui uma conta? <strong style="color: #ff7300">Clique aqui</strong></span></p></a>
+</div>
+</div>
+
+<div class="col-lg-6 col-md-6 hidden-sm hidden-xs">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">Quer ser um de</span></strong></p>
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">nossos fornecedores?</span></strong></p>
+<br>
+<p><span style="font-family: helvetica; color: #999999; font-size: large;">Veja quem já está vendendo no nosso portal</span></p>
+<a href="https://menu.com.vc/fornecedores"><p><span style="font-family: helvetica; color: #22222; font-size: large;">Já possui uma conta? <strong style="color: #ff7300">Clique aqui</strong></span></p><br></a>
+</div>
+
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"><a href="https://menu.com.vc/catalogsearch/result/?q=mca"><img alt="" src="https://menu.com.vc/media/wysiwyg/5monte.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"><a href="https://menu.com.vc/catalogsearch/result/?q=rio"><img alt="" src="https://menu.com.vc/media/wysiwyg/5rio.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"><a href="https://menu.com.vc/catalogsearch/result/?q=top"><img alt="" src="https://menu.com.vc/media/wysiwyg/5top.png" /></a></div>
+</div>
+
+<br>
+
+<div class="col-lg-6 col-md-6 hidden-sm hidden-xs">
+</div>
+<div class="row text-center">
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"><a href="https://menu.com.vc/catalogsearch/result/?q=fta"><img alt="" src="https://menu.com.vc/media/wysiwyg/5forte.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"><a href="https://menu.com.vc/catalogsearch/result/?q=rog"><img alt="" src="https://menu.com.vc/media/wysiwyg/5roge.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"><a href="https://menu.com.vc/catalogsearch/result/?q=hid"><img alt="" src="https://menu.com.vc/media/wysiwyg/5hideal.png" /></a></div>
+</div>
+</div>
+
+<br>
+
+<div class="row text-center">
+<div class="col-md-8 col-sm-4 col-xs-4">
+<div class="box-col"></div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"><a href="https://menu.com.vc/fornecedores"><img alt="" src="https://menu.com.vc/media/wysiwyg/saibamais.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-4">
+<div class="box-col"></div>
+</div>
+</div>
+
+
+<br>
+
+<div class="categorytab-slider">
+	<div class="tab-title"><h2>Ofertas MENU</h2>		<ul class="tabs tabs-OfertasMENU  tab_categorys"> 
+			   						<li class="active" rel="tab41-OfertasMENU">Ofertas MENU</li>
+<!--				-->		</ul>
+	</div>
+	<div class="tab_container"> 
+<!--		-->		 <div id="tab41-OfertasMENU" class="tab_content_OfertasMENU"> 
+						<!--			--><!--            -->		<ul class="bxslider products-grid">	
+		                        					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/agua-bonafont-330ml-c-12" title="Agua_Bonafont_330ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/467282931_Agua_Bonafont_330ml.jpg_2.jpg" width="300" height="300" alt="Agua_Bonafont_330ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/467282931_Agua_Bonafont_330ml.jpg_2.jpg" width="300" height="300" alt="Agua_Bonafont_330ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/agua-bonafont-330ml-c-12" title="ÁGUA BONAFONT 330ML C/12">ÁGUA BONAFONT 330ML C/12</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26082">
+                                            <span class="price">R$17,90</span>                                                    <small><span class="price">R$1,49</span>/unid.</small>
+                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26082/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26082/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26082">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/agua-de-coco-obrigado-1l" title="Agua_de_Coco_Obrigado_1L.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/464303056_Agua_de_Coco_Obrigado_1L.jpg_3.jpg" width="300" height="300" alt="Agua_de_Coco_Obrigado_1L.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/464303056_Agua_de_Coco_Obrigado_1L.jpg_3.jpg" width="300" height="300" alt="Agua_de_Coco_Obrigado_1L.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/agua-de-coco-obrigado-1l" title="ÁGUA DE COCO OBRIGADO 1L">ÁGUA DE COCO OBRIGADO 1L</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26093">
+                                            <span class="price">R$7,90</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26093/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26093/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26093">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/agua-s-o-lourenco-300ml-c-12" title="Agua_Sao_Lourenco_300ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463473251_Agua_Sao_Lourenco_300ml.jpg_1.jpg" width="300" height="300" alt="Agua_Sao_Lourenco_300ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463473251_Agua_Sao_Lourenco_300ml.jpg_1.jpg" width="300" height="300" alt="Agua_Sao_Lourenco_300ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/agua-s-o-lourenco-300ml-c-12" title="ÁGUA SÃO LOURENÇO 300ML C/12">ÁGUA SÃO LOURENÇO 300ML C/12</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26137">
+                                            <span class="price">R$18,50</span>                                                    <small><span class="price">R$1,54</span>/unid.</small>
+                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26137/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26137/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26137">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/cha-feel-good-branco-c-lichia-lata-330ml-c-06" title="Cha_Feel_Good_Branco_com_Lichia_Lata_330ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463623342_Cha_Feel_Good_Branco_com_Lichia_Lata_330ml.jpg_1.jpg" width="300" height="300" alt="Cha_Feel_Good_Branco_com_Lichia_Lata_330ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463623342_Cha_Feel_Good_Branco_com_Lichia_Lata_330ml.jpg_1.jpg" width="300" height="300" alt="Cha_Feel_Good_Branco_com_Lichia_Lata_330ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/cha-feel-good-branco-c-lichia-lata-330ml-c-06" title="CHÁ FEEL GOOD BRANCO C/ LICHIA LATA 330ML C/06">CHÁ FEEL GOOD BRANCO C/ LICHIA LATA 330ML C/06</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26214">
+                                            <span class="price">R$18,90</span>                                                    <small><span class="price">R$3,15</span>/unid.</small>
+                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26214/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26214/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26214">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/leite-semidesnatado-italac-1l-c-12" title="Leite_Semidesnatado_Italac_1L.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463814511_Leite_Semidesnatado_Italac_1L.jpg_2.jpg" width="300" height="300" alt="Leite_Semidesnatado_Italac_1L.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463814511_Leite_Semidesnatado_Italac_1L.jpg_2.jpg" width="300" height="300" alt="Leite_Semidesnatado_Italac_1L.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/leite-semidesnatado-italac-1l-c-12" title="LEITE SEMIDESNATADO ITALAC 1L C/12">LEITE SEMIDESNATADO ITALAC 1L C/12</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26288">
+                                            <span class="price">R$37,08</span>                                                    <small><span class="price">R$3,09</span>/unid.</small>
+                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26288/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26288/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26288">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/refri-schweppes-citrus-350ml-c-06" title="Refri._Schweppes_Citrus_Lata_350ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463832280_Refri._Schweppes_Citrus_Lata_350ml.jpg_1.jpg" width="300" height="300" alt="Refri._Schweppes_Citrus_Lata_350ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463832280_Refri._Schweppes_Citrus_Lata_350ml.jpg_1.jpg" width="300" height="300" alt="Refri._Schweppes_Citrus_Lata_350ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/refri-schweppes-citrus-350ml-c-06" title="REFRI. SCHWEPPES CITRUS 350ML C/06">REFRI. SCHWEPPES CITRUS 350ML C/06</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26331">
+                                            <span class="price">R$16,90</span>                                                    <small><span class="price">R$2,82</span>/unid.</small>
+                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26331/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26331/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26331">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/suco-del-valle-integral-uva-vidro-1-5l" title="Suco_Del_Valle_Integral_Uva_vd_1,5l.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463903880_Suco_Del_Valle_Integral_Uva_vd_1_5l.jpg_2.jpg" width="300" height="300" alt="Suco_Del_Valle_Integral_Uva_vd_1,5l.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463903880_Suco_Del_Valle_Integral_Uva_vd_1_5l.jpg_2.jpg" width="300" height="300" alt="Suco_Del_Valle_Integral_Uva_vd_1,5l.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/suco-del-valle-integral-uva-vidro-1-5l" title="SUCO DEL VALLE INTEGRAL UVA VIDRO 1,5L">SUCO DEL VALLE INTEGRAL UVA VIDRO 1,5L</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26356">
+                                            <span class="price">R$10,60</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26356/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26356/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26356">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/suco-maguary-335ml-tangerina-c-06" title="Suco_Maguary_Tangerina_335ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/466977775_Suco_Maguary_Tangerina_335ml.jpg_2.jpg" width="300" height="300" alt="Suco_Maguary_Tangerina_335ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/466977775_Suco_Maguary_Tangerina_335ml.jpg_2.jpg" width="300" height="300" alt="Suco_Maguary_Tangerina_335ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/suco-maguary-335ml-tangerina-c-06" title="SUCO MAGUARY 335ML TANGERINA C/06">SUCO MAGUARY 335ML TANGERINA C/06</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26379">
+                                            <span class="price">R$8,10</span>                                                    <small><span class="price">R$1,35</span>/unid.</small>
+                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26379/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26379/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26379">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    					                        					                        			    <li class='item'>											<div class="ma-item-inner">
+						<div class="products clearfix">
+							 <a href="https://menu.com.vc/cerv-esp-colorado-indica-600ml" title="Cerv._Esp.Colorado_Indica_600ml.jpg" class="product-image">
+                                <img class="no-hover" src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463610579_Cerv._Esp.Colorado_Indica_600ml.jpg_1.jpg" width="300" height="300" alt="Cerv._Esp.Colorado_Indica_600ml.jpg" />
+                                <span class="image-rotator">
+                                                                      <img src="https://menu.com.vc/media/catalog/product/cache/1/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/6/463610579_Cerv._Esp.Colorado_Indica_600ml.jpg_1.jpg" width="300" height="300" alt="Cerv._Esp.Colorado_Indica_600ml.jpg" />
+                               </span>
+                            </a>
+						</div>
+						
+						<h2 class="product-name"><a href="https://menu.com.vc/cerv-esp-colorado-indica-600ml" title="CERV. ESP. COLORADO INDICA 600ML">CERV. ESP. COLORADO INDICA 600ML</a></h2>
+                                                    						    <style>
+    small {
+        font-size: 12px;}
+</style>
+
+                        
+    <div class="price-box">
+                                                                                                        <span class="regular-price" id="product-price-26567">
+                                            <span class="price">R$11,99</span>                                                            </span>
+                                    
+            </div>
+
+
+                            <div class="actions">
+                                                                    <ul class="add-to-links">
+                                                                                                                                    <li><a href="https://menu.com.vc/wishlist/index/add/product/26567/form_key/9kydqLF5yfNQqY51/" class="btn-wish-sliders" title="Adicionar aos Favoritos" ></a></li>
+                                                                                    <!--                                        --><!--                                            --><!--                                                <li><span class="separator">|</span> <a href="--><!--" title="--><!--" class="link-compare fa fa-refresh"><span>--><!--</span></a></li>-->
+<!--                                            --><!--                                        -->                                    </ul>
+                                                                                                <form action="https://menu.com.vc/checkout/cart/add/uenc/aHR0cHM6Ly9tZW51LmNvbS52Yy9zaGV5bGEucGhwL2Zyb21EYXRlPTAxMTEyMDE4JmFtcDt0b0RhdGU9MTEwMjIwMTg,/product/26567/form_key/9kydqLF5yfNQqY51/" method="post" id="product_addtocart_form_26567">
+                                                                        <input type="hidden" readonly name="qty" class="qty no-display" id="qty" maxlength="99" value="1" />
+
+                                    <button type="button" title="Adicionar" class="button btn-cart" onclick="this.form.submit()"><p>Adicionar</p></button>
+                                </form>
+                                                                </div>
+                            <div class="sold-by"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon-transporte.png" alt="vendido e entregue por" title="Produto vendido e entregue por: Hideal Distribuidora"/>Hideal Distribuidora</div>
+                        <!--                            <span><a href="--><!--">--><!--</a>--><!--<a href="--><!--">--><!--</a><br> --><!-- </span>-->
+                                            </div>
+										</li>                    														</ul>
+			<script type="text/javascript">
+						$jq(document).ready(function(){
+													  $jq("#tab41-OfertasMENU .bxslider").bxSlider(
+							{
+							  speed: 600,
+							  pause: 600,			  
+							  minSlides:1,
+							  maxSlides: 25,
+							  slideWidth: 80,
+							  slideMargin:20,
+							 
+							  pager:false, 
+																						controls: true,
+														moveSlides:2,
+							}
+						  );
+						});
+					</script>
+		 </div><!-- #tab1 -->
+<!--		 -->	 </div> <!-- .tab_container --> 
+</div>
+<script type="text/javascript">
+
+$jq(document).ready(function() {
+	
+	$jq(".tab_content_OfertasMENU").hide();
+	$jq(".tab_content_OfertasMENU:first").show(); 
+
+	$jq("ul.tabs-OfertasMENU li").click(function() {
+		$jq("ul.tabs-OfertasMENU li").removeClass("active");
+		$jq(this).addClass("active");
+		$jq(".tab_content_OfertasMENU").hide();
+		var activeTab = $jq(this).attr("rel"); 
+		$jq("#"+activeTab).fadeIn(); 
+	});
+});
+
+</script> 
+
+
+
+
+
+
+
+
+<hr>
+
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/vantagens.png" /></div>
+</div>
+
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<br><p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">Veja as vantagens de se tornar um cliente Menu.com.vc</span></strong></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #ff7300; font-size: small;"> Preços competitivos na hora das compras</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #ff7300; font-size: small;"> Ótimas condições de pagamento e crédito</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #ff7300; font-size: small;"> Compra e cliques e entrega facilitada</span></p>
+</div>
+
+
+<div class="col-lg-6 col-md-6 hidden-sm hidden-xs">
+<br>
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">Veja as vantagens de se tornar</span></strong></p>
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">um cliente Menu.com.vc</span></strong></p>
+<br>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #ff7300; font-size: small;"> Preços competitivos</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #ff7300; font-size: small;"> Ótimas condições de pagamento</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #ff7300; font-size: small;"> Compra e entrega facilitada</span></p>
+</div>
+</div>
+</div>
+
+
+<hr>
+
+<br>
+<div class="row text-center">
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">Nossos parceiros de inovação</span></strong></p>
+</div>
+
+<div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">Nossos parceiros de inovação</span></strong></p>
+</div>
+</div>
+
+<br>
+
+<div class="row text-center">
+<div class="col-md-2 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/5up.png" /></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/5bconnect.png" /></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/5liga.png" /></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/5inovativa.png" /></div>
+</div>
+<div class="col-md-2 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+</div>
+
+
+<br>
+<hr>
+<br>
+
+
+<div class="row text-center">
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">Como funciona</span></strong></p>
+</div>
+
+<div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">Como funciona</span></strong></p>
+</div>
+</div>
+
+<br>
+
+
+<div class="row text-center">
+
+<div class="col-lg-1 col-md-1 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/compare.png" /></div>
+</div>
+
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/setas.png" /></div>
+</div>
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/Compre.png" /></div>
+</div>
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/setas.png" /></div>
+</div>
+
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/Acompanhe_pedidos.png" /></div>
+</div>
+<div class="row text-center">
+<div class="col-lg-1 col-md-1 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+</div>
+
+
+<div class="row text-center">
+
+<div class="col-lg-1 col-md-1 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<p></p>
+<br>
+<p><span style="font-family: helvetica; color: #ff7300; font-size: medium;">Compare</span></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: small;">Compare o preço de dezenas de fornecedores em um único lugar</span></p>
+</div>
+
+
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<p></p>
+<br>
+<p><span style="font-family: helvetica; color: #ff7300; font-size: medium;">Compre</span></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: small;">Compre com a facilidade de fazer tudo em poucos cliques e ótimos preços</span></p>
+</div>
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+
+<div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+<p></p>
+<br>
+<p><span style="font-family: helvetica; color: #ff7300; font-size: medium;">Acompanhe</span></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: small;">Acompanhe o andamento de todos os pedidos com nosso time de atendimento</span></p>
+</div>
+<div class="col-lg-1 col-md-1 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+
+
+</div>
+
+
+<div class="hidden-lg hidden-md col-sm-5 col-xs-5">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/compare.png" /></div>
+</div>
+<div class="hidden-lg hidden-md col-sm-1 col-xs-1">
+<div class="box-col"></div>
+</div>
+<div class="hidden-lg hidden-md col-sm-6 col-xs-6">
+<p><span style="font-family: helvetica; color: #ff7300; font-size: small;">Compare</span></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: x-small;">Compare o preço de dezenas de fornecedores em um único lugar</span></p><br>
+</div>
+
+
+
+<div class="hidden-lg hidden-md col-sm-5 col-xs-5">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/Compre.png" /></div>
+</div>
+<div class="hidden-lg hidden-md col-sm-1 col-xs-1">
+<div class="box-col"></div>
+</div>
+<div class="hidden-lg hidden-md col-sm-6 col-xs-6">
+<p><span style="font-family: helvetica; color: #ff7300; font-size: small;">Compre</span></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: x-small;">Compre com a facilidade de fazer tudo em poucos cliques e ótimos preços</span></p><br>
+</div>
+
+
+
+<div class="hidden-lg hidden-md col-sm-5 col-xs-5">
+<div class="box-col"><img alt="" src="https://menu.com.vc/media/wysiwyg/Acompanhe_pedidos.png" /></div>
+</div>
+<div class="hidden-lg hidden-md col-sm-1 col-xs-1">
+<div class="box-col"></div>
+</div>
+<div class="hidden-lg hidden-md col-sm-6 col-xs-6">
+<p><span style="font-family: helvetica; color: #ff7300; font-size: small;">Acompanhe</span></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: x-small;">Acompanhe o andamento de todos os pedidos com nosso time de atendimento</span></p>
+</div>
+
+<br>
+<br>
+
+<div class="row text-center">
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<br><p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">Quer saber mais?</span></strong></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: small;">Veja nosso tutorial rápido</span></p>
+</div>
+<div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: x-large;">Quer saber mais?</span></strong></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: large;">Veja nosso tutorial rápido</span></p>
+</div>
+</div>
+</div>
+
+
+<br>
+
+<div class="row text-center">
+<div class="col-md-5 col-sm-3 col-xs-3">
+<div class="box-col"></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><a href="https://menu.com.vc/onboarding" title="Saber_mais" target="_blank"><img alt="" src="https://menu.com.vc/media/wysiwyg/Assista_ao_v_deo.png" /></a></div>
+</div>
+<div class="col-md-5 col-sm-3 col-xs-3">
+<div class="box-col"></div>
+</div>
+</div>
+
+
+<br>
+<hr>
+
+
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">Ganhe descontos exclusivos para o seu negócio!</span></strong></p>
+<p><span style="font-family: helvetica; color: #999999; font-size: small;">Você poderá acessar:</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #222222; font-size: small;"> Listas de compras</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #222222; font-size: small;"> Preços exclusivos</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #222222; font-size: small;"> Vendedores especializados</span></p>
+</div>
+
+
+<div class="col-lg-6 col-md-6 hidden-sm hidden-xs">
+<br>
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">Ganhe descontos exclusivos</span></strong></p>
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">para o seu negócio!</span></strong></p>
+<br>
+<p><span style="font-family: helvetica; color: #999999; font-size: x-large;">Você poderá acessar:</span></p><br>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #222222; font-size: large;"> Listas de compras</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #222222; font-size: large;"> Preços exclusivos</span></p>
+<p><img alt="" src="https://menu.com.vc/media/wysiwyg/Check.png" /><span style="font-family: helvetica; color: #222222; font-size: large;"> Vendedores especializados</span></p>
+</div>
+
+
+
+<div class="row text-center">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="box-col">
+<section class="pre-cadastro-container">
+<div role="main" id="formulario-de-pre-cadastro-03e6ee35a4659ee763dd"></div> <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script> <script type="text/javascript">
+new RDStationForms('formulario-de-pre-cadastro-03e6ee35a4659ee763dd-html', 'UA-85011216-1').createForm();
+</script>
+</section>
+</div>
+</div>
+</div>
+
+<hr>
+<br>
+
+<div class="row text-center">
+<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: large;">O que dizem na mídia</span></strong></p>
+</div>
+<div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
+<p><strong><span style="font-family: helvetica; color: #ff7300; font-size: xx-large;">O que dizem na mídia</span></strong></p>
+</div>
+</div>
+
+<br>
+
+
+<div class="col-md-2 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><a href="http://www.chinadaily.com.cn/business/tech/2017-09/21/content_32275575_3.htm" target="_blank"><img alt="" src="https://menu.com.vc/media/wysiwyg/5china.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><a href="https://www.ecommercebrasil.com.br/artigos/b2b-alimentos-bebidas/" target="_blank"><img alt="" src="https://menu.com.vc/media/wysiwyg/5ecommerce.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><a href="http://www.otempo.com.br/interessa/tecnologia-e-games/autotechs-tiram-carros-das-ruas-1.1518077" target="_blank"><img alt="" src="https://menu.com.vc/media/wysiwyg/5otempo.png" /></a></div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-6">
+<div class="box-col"><a href="http://g1.globo.com/jornal-hoje/noticia/2017/08/startups-que-criam-solucoes-de-mobilidade-crescem-mais-no-pais.html" target="_blank"><img alt="" src="https://menu.com.vc/media/wysiwyg/5oglobo.png" /></a></div>
+</div>
+<div class="col-md-2 hidden-sm hidden-xs">
+<div class="box-col"></div>
+</div></div>						</div>
+					</div>
+				</div>
+			</div>		
+		</div>
+				﻿<!-- <div class="ma-footer-link-follow">
+	<div class="container">
+		<div class="row">
+					</div>
+	</div>			
+</div>
+<div class="ma-footer-static-top">
+	<div class="container">
+		<div class="footer-static-top">
+			<div class="row">
+							</div>
+		</div>
+	</div>			
+</div> -->
+<footer class="menu-footer"> 
+<footer class="menu-footer"> 
+    <section class="main-footer"> 
+        <div class="main-footer-area container">
+            <div class="footer-col-link">
+                <div class="footer-list col-sm-6 col-md-3 col-sms-6 col-smb-12">
+                    <div class="list-title">
+                        <p>sobre nós</p>
+                        <hr class="footer-hr">
+                    </div>
+                    <div class="links-list">
+                        <ul>
+                            <li><a class="footer-links" href="https://menu.com.vc/sobre-nos">Quem Somos?</a></li>                                
+                            <li><a class="footer-links" href="https://menu.com.vc/o-que-dizem-na-midia">O que dizem na mídia</a></li>                                
+                            <li><a class="footer-links"  href="https://menu.com.vc/blog">Blog</a></li>
+                        </ul>       
+                    </div>
+                </div>
+                <div class="footer-list col-sm-6 col-md-3 col-sms-6 col-smb-12">
+                    <div class="list-title">
+                        <p>área do consumidor</p>
+                        <hr class="footer-hr">
+                    </div>
+                    <div class="links-list">
+                        <ul>                 
+                            <li><a class="footer-links" href="https://menu.com.vc/sales/order/history">Meus Pedidos</a></li>                                
+                            <li><a class="footer-links" href="https://menu.com.vc/termos-e-condicoes">Política de privacidade</a></li>                                
+                            <li><a class="footer-links" href="https://menu.com.vc/termos-e-condicoes">Termos e condições</a></li>                                
+                        </ul>           
+                    </div>
+                </div>
+                <div class="footer-list col-sm-6 col-md-3 col-sms-6 col-smb-12">
+                    <div class="list-title">
+                        <p>suporte</p>
+                        <hr class="footer-hr">
+                    </div>
+                    <div class="links-list">
+                        <ul>
+                            <li><a class="footer-links" href="https://menu.com.vc/faq">Perguntas Frequentes</a></li>                                
+                            <li><a class="footer-links" href="https://menu.com.vc/contacts">Fale Conosco</a></li>                                
+                            <li><a class="footer-links" href="https://menu.com.vc/onboarding">Como Funciona</a></li>                                                            
+                        </ul>       
+                            
+                    </div>
+                </div>
+                <div class="footer-list col-sm-6 col-md-3 col-sms-6 col-smb-12">
+                    <div class="list-title">
+                        <p>televendas</p>
+                        <hr class="footer-hr">
+                    </div>
+                    <div class="list-contact">
+                        <div class="widget widget-static-block"><h3 class="tel-info-contact"><i class="fab fa-whatsapp"></i> <p>(11) 94212-8103</p></h3>
+<h3 class="tel-info-contact"><i class="fab fa-whatsapp"></i> <p>(11) 97105-8528</p></h3></div>
+
+                        <p class="email-text">email@marketing.com.vc</p>
+                        <h6 class="attendance-view-title">Horário de Atendimento</h6>
+                        <div class="attendance-view-info">
+                            <p>De Segunda a Sexta <br> 9h as 18h</p>
+                        </div>
+                    </div>
+                </div>
+                <div style="clear:both;" class="footer-list col-md-4 col-sm-6 col-xs-12">
+                    <div class="list-title">
+                        <p>forma de pagamento</p>
+                        <hr class="footer-hr">
+                    </div>
+                    <div class="formas-pagamento-container">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-americanexpress.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-banrisul.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-bancobrasil.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-boleto.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-bradesco.png">                       
+                    </div>     
+                    <div class="formas-pagamento-container">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-diners.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-itau.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-mastercard.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-visa.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-pagamento-hipercard.png">                       
+                    </div>     
+                </div>
+                <div class="footer-list col-md-2 col-md-offset-1 col-sm-6 col-xs-12">
+                    <div class="list-title">
+                        <p>segurança</p>
+                        <hr class="footer-hr">
+                    </div>
+                    <div class="certify-secure-container">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-secure-pci.png">
+                        <img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-secure-lencrypt.png">
+                    </div>
+                </div>
+
+                <div class="widget widget-static-block"><div class="social-info-area nl-s-info-area col-md-3 col-md-offset-2 col-sm-12 col-xs-12">                    
+<a class="social-info" href="https://www.facebook.com/menucomvc"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-footer-facebook.png"></a>
+                    <a class="social-info" href="https://www.instagram.com/menucomvc"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-footer-instagram.png"></a>
+                    <a class="social-info" href="https://twitter.com/menucomvc"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-footer-twitter.png"></a>
+                    <a class="social-info" href="https://pt.linkedin.com/company/menu.com.vc"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-footer-linkedin.png"></a>
+                    <a class="social-info" href="https://universidademenu.com"><img src="https://menu.com.vc/skin/frontend/menu/marketplace/images/icon/icon-footer-rss.png"></a>
+</div></div>
+
+ 
+            </div> 
+        </div>   
+    </section>
+    <section class="copyright-footer">
+        <div class="copyright-footer-area container">
+            <div class="nav-links-area col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <p>Todos os direitos deste site são reservados a MENUPONTOCOM COMÉRCIO ELETRONICO E REPRESENTAÇÃO LTDA., com sede na cidade de São Paulo, Estado de São Paulo, na Av Paulista, 1374, 4° andar, CEP 01310-100, inscrita no CNPJ sob o nº 26.217.642/0001-30. Todas as imagens desta página são meramente ilustrativa. Considere a descrição dos produtos.</p> 
+            </div>
+        </div> 
+        <a href="https://menu.com.vc/" target="_blank" title="menu.com.vc" class="powered-marker"  alt="menu.com.vc">
+            <label>Desenvolvido por:</label>
+            <img class="powered-marker-img" src="https://menu.com.vc/media/wysiwyg/logomenubranca.png" alt="menu.com.vc">
+            </a>
+    </section>
+</footer></footer>
+<!--        <div class="credit-limit hidden-sm hidden-xs">Seu limite de crédito: --><!--</div>-->
+<!--    --><!--  <div class="credit-limit hidden-sm hidden-xs">Cliente Bloqueado, por favor entre em contato: 11 2667-4762</div>-->
+<!---->
+<!--        --><!--            <div class="credit-limit hidden-sm hidden-xs">Aqui você pode pagar com cartão de crédito ou boleto à vista</div>-->
+<!--       --><!--->
+
+				<div class="overFlowBssTT"> </div>
+<div class="popaddmultiple" style="display: none"> 
+
+
+<!-- Product hit template -->
+<script type="text/template" id="autocomplete_products_template">
+    <a class="algoliasearch-autocomplete-hit" href="{{url}}">
+        {{#thumbnail_url}}
+            <div class="thumb"><img src="{{thumbnail_url}}" /></div>
+        {{/thumbnail_url}}
+
+        <div class="info">
+            {{{_highlightResult.name.value}}}
+
+            <div class="algoliasearch-autocomplete-category">
+                {{#categories_without_path}}
+                    em                    {{{categories_without_path}}}
+                {{/categories_without_path}}
+
+                {{#_highlightResult.color}}
+                    {{#_highlightResult.color.value}}
+                        <span>
+                           {{#categories_without_path}} | {{/categories_without_path}} Color:  {{{_highlightResult.color.value}}}
+                        </span>
+                    {{/_highlightResult.color.value}}
+                {{/_highlightResult.color}}
+            </div>
+
+            <div class="algoliasearch-autocomplete-price">
+                <span class="after_special {{#price.BRL.default_original_formated}}promotion{{/price.BRL.default_original_formated}}">
+                    {{price.BRL.default_formated}}
+                </span>
+
+                {{#price.BRL.default_original_formated}}
+                    <span class="before_special">
+                        {{price.BRL.default_original_formated}}
+                    </span>
+                {{/price.BRL.default_original_formated}}
+            </div>
+        </div>
+    </a>
+</script><!-- Category hit template -->
+<script type="text/template" id="autocomplete_categories_template">
+    <a class="algoliasearch-autocomplete-hit algolia-clearfix" href="{{url}}">
+        {{#image_url}}
+            <div class="thumb">
+                <img src="{{image_url}}" />
+            </div>
+        {{/image_url}}
+
+        <div class="info{{^image_url}}-without-thumb{{/image_url}}">
+
+            {{#_highlightResult.path}}
+                {{{_highlightResult.path.value}}}
+            {{/_highlightResult.path}}
+            {{^_highlightResult.path}}
+                {{{path}}}
+            {{/_highlightResult.path}}
+
+            {{#product_count}}
+                <small>({{product_count}})</small>
+            {{/product_count}}
+
+        </div>
+    </a>
+</script><!-- Page hit template -->
+<script type="text/template" id="autocomplete_pages_template">
+    <a class="algoliasearch-autocomplete-hit algolia-clearfix" href="{{url}}">
+        <div class="info-without-thumb">
+            {{{_highlightResult.name.value}}}
+
+            {{#content}}
+                <div class="details">
+                    {{{content}}}
+                </div>
+            {{/content}}
+        </div>
+    </a>
+</script><!-- Extra attribute hit template -->
+<script type="text/template" id="autocomplete_extra_template">
+    <a class="algoliasearch-autocomplete-hit" href="{{url}}">
+        <div class="info-without-thumb">
+            {{{_highlightResult.value.value}}}
+        </div>
+    </a>
+</script><!-- Suggestion hit template -->
+<script type="text/template" id="autocomplete_suggestions_template">
+    <a class="algoliasearch-autocomplete-hit algolia-clearfix" href="{{url}}">
+        <svg xmlns="http://www.w3.org/2000/svg" class="algolia-glass-suggestion magnifying-glass" width="24" height="24" viewBox="0 0 128 128" >
+            <g transform="scale(2.5)">
+                <path stroke-width="3" d="M19.5 19.582l9.438 9.438"></path>
+                <circle stroke-width="3" cx="12" cy="12" r="10.5" fill="none"></circle>
+                <path d="M23.646 20.354l-3.293 3.293c-.195.195-.195.512 0 .707l7.293 7.293c.195.195.512.195.707 0l3.293-3.293c.195-.195.195-.512 0-.707l-7.293-7.293c-.195-.195-.512-.195-.707 0z" ></path>
+            </g>
+        </svg>
+        <div class="info-without-thumb">
+            {{{_highlightResult.query.value}}}
+
+            {{#category}}
+                <span class="text-muted">em</span> <span class="category-tag">{{category}}</span>
+            {{/category}}
+        </div>
+    </a>
+</script><!-- General autocomplete menu template -->
+<script type="text/template" id="menu-template">
+    <div class="autocomplete-wrapper">
+        <div class="col9">
+            <div class="aa-dataset-products"></div>
+        </div>
+        <div class="col3">
+            <div class="other-sections">
+                <div class="aa-dataset-suggestions"></div>
+                                    <div class="aa-dataset-0"></div>
+                                    <div class="aa-dataset-1"></div>
+                                    <div class="aa-dataset-2"></div>
+                                    <div class="aa-dataset-3"></div>
+                                    <div class="aa-dataset-4"></div>
+                                    <div class="aa-dataset-5"></div>
+                                    <div class="aa-dataset-6"></div>
+                                    <div class="aa-dataset-7"></div>
+                                    <div class="aa-dataset-8"></div>
+                                    <div class="aa-dataset-9"></div>
+                            </div>
+        </div>
+    </div>
+</script>	</div>	
+</div>
+<script src="https://menu.com.vc/skin/frontend/menu/marketplace/js/custom.js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5TCGDW2');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5TCGDW2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a9863fed7591465c7082ae3/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<!-- SCRIPT RD STATION -->
+<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/da420405-adb6-4312-ad79-a0ed717eb91f-loader.js"></script>
+
+<!--4ee625527743c5ab1c44bbb70026a198-->
+</body>
+</html>
