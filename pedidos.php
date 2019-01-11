@@ -12,7 +12,7 @@
 
     <!-- ######################################requisicao da nav################################# -->
         <div>
-            <?php require_once('nav.php')?>
+            <?php require_once('components/nav.php')?>
         </div>
     <!-- ########################################################################################### -->
 
@@ -118,12 +118,12 @@
                                 </div>
                             </div>
                         </div>
-
+    
                         <br>
                         <button class="btn btn-info" type="submit">Cadastrar</button>
                             <?php
                             if(isset($_POST["orders"]) && !empty($_POST["orders"])){
-                                require("configs.php");
+                                require("config/configs.php");
                                 $dados = array($_POST["orders"],$_POST["nome"],$_POST["ruptura"],$_POST["vendedor"],$_POST["telefone"],$_POST["seller"]);
                                 $go = new sql();
                                 $go->cadastrar($dados);
@@ -167,10 +167,10 @@
 
             <!-- --- ------------------chamada sql --------------------------- -->
             <?php    
-                require("configs.php");
+                require("config/configs.php");
                 $envio = new sql();
                 if (isset($_GET["vendedor"]) && !empty($_GET["vendedor"])) {  
-                        require("configs.php");
+                        require("config/configs.php");
                         $envio = new sql();
                         if($_GET["vendedor"] == 1 || $_GET["vendedor"] == 2){
                         $envio->select($_GET["vendedor"]);
@@ -193,7 +193,7 @@
     <br>
 
     <!-- ##################################chamada de scripts######################################### -->
-                <?php require_once('scripts.php')?>
+                <?php require_once('scripts/scripts.php')?>
     <!-- ############################################################################################# -->
 
 </center>
@@ -211,20 +211,6 @@
                 $(resolver[i]).removeClass('bg-info');
                 $(resolver[i]).addClass('bg-success');
                 $(resolver[i]).attr("name","1");
-
-               
-                // var request = $.ajax({
-                //     url:"class/sql.php",
-                //     type:"POST",
-                //     data:'t4este',
-                //     dataType:"text"
-                // }).done(function (teste){
-                //         console.log(teste);
-                // }).fail( function(jqXHR,textStatus){
-                //         console.log("Request failed: " + textStatus);
-                // }).always(function(){
-                //         console.log("complete");
-                // });
 
                 $.post("class/resolver.php",ordernum,
                 function(data){

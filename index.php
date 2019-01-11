@@ -1,3 +1,7 @@
+<?php 
+session_start();
+$_SESSION["name"]="carlos";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,12 +18,12 @@
 <body>
     <!-- ######################################requisicao da nav################################# -->
         <div>
-            <?php require_once('nav.php')?>
+            <?php require_once('components/nav.php')?>
         </div>
     <!-- ######################################################################################## -->
 
     <!-- ######################################requisicao do header############################## -->
-        <?php require_once('header.php')?>
+        <?php require_once('components/header.php')?>
     <!-- ######################################################################################## -->
 
     <!-- ##############################################chart##################################### -->
@@ -56,6 +60,6 @@
     
     </script>
 
-  <?php require_once('scripts.php')?>
+  <?php require_once('scripts/scripts.php')?>
 </body>
 </html>

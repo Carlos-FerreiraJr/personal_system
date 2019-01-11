@@ -11,3 +11,5 @@ spl_autoload_register(function($nome_classe){
             require_once("class" . DIRECTORY_SEPARATOR. $nome_classe . ".php");
         endif;
 });
+
+
